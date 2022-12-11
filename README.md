@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x0xr00t
-- 👀 I’m interested in redteaming, and hacking in generaly.
-- 📫 How to reach me Linkedin
+- 👀 I’m interested in red teaming, and hacking in generaly.
+- 📫 How to reach me Linkedin, Discord.
 
 #[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://git.io/awesome-stats-card)
 
