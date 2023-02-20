@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&repo=github-readme-stats)](https://github.com/x0xr00t/sl0ppy-oppg)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&repo=sl0ppy-oppg)](https://github.com/anuraghazra/github-readme-stats)
