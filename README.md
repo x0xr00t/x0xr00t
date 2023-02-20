@@ -1,5 +1,5 @@
 # Be Welcome On Mine Github Page.
-- 👋 Hi, I’m @x0xr00t
+- 👋 Hi, I’m @x0xr00t,i'm a Top 50th badge HTB, Secjuice Top 60 writer, SynAck Red Team Member.
 - 👀 I’m interested in red teaming, and hacking in generaly.
 - 📫 How to reach me Linkedin, Discord.
 
