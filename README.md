@@ -1,4 +1,4 @@
-# Welcome to mine github page.
+# Welcome To Mine Github Page.
 - 👋 Hi, I’m @x0xr00t
 - 👀 I’m interested in red teaming, and hacking in generaly.
 - 📫 How to reach me Linkedin, Discord.
