@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&repo=Automated-MUlti-UAC-Bypass)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=Automated-MUlti-UAC-Bypass)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-oppg)](https://github.com/anuraghazra/github-readme-stats)
