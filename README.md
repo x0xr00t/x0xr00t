@@ -6,15 +6,15 @@
 x0xr00t/x0xr00t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# x0xr00t stats
+# x0xr00t's Stats
 #[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
 
-# Lang Stats 
+# x0xr00t's Lang Stats 
 <!--- language stats --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark)](https://github.com/x0xr00t)
 
 
-# Repo's (more to be added!!)
+# x0xr00t's Repo's (more to be added!!)
 <!---repo's--->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=Automated-MUlti-UAC-Bypass)](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppyvator-win10-win11)](https://github.com/x0xr00/sl0ppyvator-win10-win11)
