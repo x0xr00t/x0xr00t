@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppyvator-win10-win11)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-oppg)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-defender-evasion)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-kaliFix)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-Nullify-LUA)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=ams)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=DTPMC-Win10)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=lsc)](https://github.com/anuraghazra/github-readme-stats)
