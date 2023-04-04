@@ -8,7 +8,7 @@ x0xr00t/x0xr00t is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 # x0xr00t's Stats
-#[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
 
 
 <!---
