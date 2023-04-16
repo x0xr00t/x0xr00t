@@ -30,3 +30,8 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=DTPMC-Win10)](https://github.com/x0xr00t/DTPMC-Win10)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=lsc)](https://github.com/x0xr00t/lsc)
 
+  ### 🏆 GitHub Profile Trophy:
+---
+ <div>
+  <img width=810 src="https://github-profile-trophy.vercel.app/?username=x0xr00t&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
+</div>
