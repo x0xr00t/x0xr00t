@@ -29,7 +29,6 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=ams)](https://github.com/x0xr00t/ams)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=DTPMC-Win10)](https://github.com/x0xr00t/DTPMC-Win10)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=lsc)](https://github.com/x0xr00t/lsc)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-flood)](https://github.com/x0xr00t/sl0ppy-flood)
   ### 🏆 GitHub Profile Trophy:
 ---
