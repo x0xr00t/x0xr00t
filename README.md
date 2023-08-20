@@ -12,17 +12,22 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 # x0xr00t's Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
 </p>
+<div align="center">
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
+
 
 <p align="center">
 # x0xr00t's Lang Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark)](https://github.com/x0xr00t)
 </p>
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark)](https://github.com/x0xr00t)
+
 
 <p align="center">
 # x0xr00t's Repo's (more to be added!!)
-
+</p>
+<div align="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=Automated-MUlti-UAC-Bypass)](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppyvator-win10-win11)](https://github.com/x0xr00t/sl0ppyvator-win10-win11)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-ALPI)](https://github.com/x0xr00t/sl0ppy-ALPI)
@@ -36,12 +41,14 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=lsc)](https://github.com/x0xr00t/lsc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-GarudaTools)](https://github.com/x0xr00t/sl0ppy-GarudaTools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-flood)](https://github.com/x0xr00t/sl0ppy-flood)
-</p>
+
 
 <p align="center">
   ### 🏆 GitHub Profile Trophy:
+</p> 
 ---
+ <div align="center"> 
  <div>
   <img width=810 src="https://github-profile-trophy.vercel.app/?username=x0xr00t&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
 </div>
-</p>
+
