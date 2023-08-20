@@ -8,16 +8,16 @@ x0xr00t/x0xr00t is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<center>
+
 # x0xr00t's Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
-</center>
+
 
 
 # x0xr00t's Lang Stats 
-<center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark)](https://github.com/x0xr00t)
-</center>
+
 # x0xr00t's Repo's (more to be added!!)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=Automated-MUlti-UAC-Bypass)](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass)
@@ -34,11 +34,10 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-GarudaTools)](https://github.com/x0xr00t/sl0ppy-GarudaTools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-flood)](https://github.com/x0xr00t/sl0ppy-flood)
 
-<center>
+
   ### 🏆 GitHub Profile Trophy:
 ---
  <div>
   <img width=810 src="https://github-profile-trophy.vercel.app/?username=x0xr00t&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
 </div>
-</center>
 
