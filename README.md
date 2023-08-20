@@ -1,9 +1,8 @@
-<p align="center">
 # Be Welcome On Mine Github Page.
 - 👋 Hi, I’m @x0xr00t.
 - 👀 I’m interested in red teaming, and hacking in generaly.
 - 📫 How to reach me Linkedin, Discord, Signal.
-</p>
+
 
 <!---
 x0xr00t/x0xr00t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
