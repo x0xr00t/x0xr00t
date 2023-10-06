@@ -23,7 +23,6 @@ You can click the Preview link to take a look at your changes.
 # x0xr00t's Repo's (more to be added!!)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=Automated-MUlti-UAC-Bypass)](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppyvator-win10-win11)](https://github.com/x0xr00t/sl0ppyvator-win10-win11)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-ALPI)](https://github.com/x0xr00t/sl0ppy-ALPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-oppg)](https://github.com/x0xr00t/sl0ppy-oppg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-defender-evasion)](https://github.com/x0xr00t/sl0ppy-defender-evasion)
