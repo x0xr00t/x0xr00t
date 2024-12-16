@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # x0xr00t's Lang Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark&lang_count=20)](https://github.com/x0xr00t)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark&langs_count=20)](https://github.com/x0xr00t)
 
 
 
