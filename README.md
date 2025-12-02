@@ -39,10 +39,6 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-UEFIScan)](https://github.com/x0xr00t/sl0ppy-UEFIScan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=Hack-the-Planet-SilentReject-OmniPollute)](https://github.com/x0xr00t/Hack-the-Planet-SilentReject-OmniPollute)
 
-
-
-
-
   ### 🏆 GitHub Profile Trophy:
 --- 
  <div>
