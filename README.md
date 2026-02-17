@@ -7,8 +7,10 @@
 📫 How to reach me [Linkedin](JOUW_LINK_HIER)
 ---
 ---
-![Views](https://ishan-rest.vercel.app)
+![Views](https://ishan-rest.vercel.app/x0xr00t)
 ![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
+[![Image of Repositories Views Counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
+
 ---
 
 ---
