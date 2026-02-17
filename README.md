@@ -5,6 +5,51 @@
 
 ---
 
+
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com');
+
+    .bg { fill: #0d1117; rx: 8; ry: 8; }
+    .text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 18px;
+      fill: #00ff41; /* Klassiek matrix groen */
+      white-space: pre;
+    }
+    
+    .cursor {
+      fill: #00ff41;
+      animation: blink 0.8s step-end infinite;
+    }
+
+    .typing {
+      overflow: hidden;
+      display: inline-block;
+      stroke: #00ff41;
+      stroke-width: 0;
+      animation: typing 4s steps(50, end) forwards;
+    }
+
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Terminal Achtergrond -->
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Tekst met cursor -->
+  <text x="20" y="55" class="text">
+    <tspan class="typing">hello, i'm Patrick Hoogeveen. also known as x0xr00t.</tspan>
+    <tspan class="cursor">_</tspan>
+  </text>
+</svg>
+
 # 👋 Hi, I’m @x0xr00t
 👀 I’m interested in red teaming, and hacking in general.
 📫 How to reach me: [LinkedIn](https://www.linkedin.com)
