@@ -6,11 +6,11 @@
 👀 I’m interested in red teaming, and hacking in general.
 📫 How to reach me [Linkedin](JOUW_LINK_HIER)
 ---
+
 ---
 ![Views](https://ishan-rest.vercel.app/x0xr00t)
 ![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
 [![Image of Repositories Views Counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
-
 ---
 
 ---
@@ -20,9 +20,12 @@
 # 🛠️ x0xr00t builds
 ![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/BUILDS)
 ---
+
 ---
 # ☣️ Deployed Exploits & Tools
+---
 
+---
 | Module Name | Vector | Status | Badge |
 | :---: | :---: | :---: | :---: |
 | [**Automated UAC Bypass**](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) | Windows UAC | `STABLE` | ![GitHub](https://img.shields.io) |
