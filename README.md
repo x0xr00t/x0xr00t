@@ -45,6 +45,7 @@
 
 # x0xr00t os 
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=kali-linux)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 # 🚀 Top Repositories
