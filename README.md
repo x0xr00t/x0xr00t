@@ -39,8 +39,14 @@
 # 💻 Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark&langs_count=25)](https://github.com/x0xr00t)
 
-![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
+![Github Banner](https://ishan-rest.vercel.app/svg/banner/x0xr00t)
 
+---
+
+# x0xr00t os 
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=kali-linux)
+
+---
 # 🚀 Top Repositories
 *(more to be added!!)*
 
