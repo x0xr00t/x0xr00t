@@ -19,9 +19,11 @@ You can click the Preview link to take a look at your changes.
 
 | Module Name | Vector | Status | Badge |
 | :--- | :--- | :--- | :--- |
-| [**Automated UAC Bypass**](https://github.com) | Windows UAC | `STABLE` | ![GitHub](https://img.shields.io) |
+| [**Automated UAC Bypass**](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) | Windows UAC | `STABLE` | ![GitHub](https://img.shields.io) |
+| [**sl0ppy-PrivescTaskCreator**](https://github.com/x0xr00t/sl0ppy-PrivescTaskCreator) | Task Scheduling PrivEsc | STABLE | |
 | [**Defender Evasion**](https://github.com) | AV Bypass | `ACTIVE` | ![GitHub](https://img.shields.io) |
 | [**KPN Path Traversal**](https://github.com) | Web / CVE | `EXPLOITED` | ![GitHub](https://img.shields.io) |
+| [**SVGScan**](https://github.com/x0xr00t/sl0ppy-SVGScan) | SVG-based Recon/Exploit | `STABLE` | |
 | [**sl0ppy-ALPI**](https://github.com) | Privesc | `STABLE` | ![GitHub](https://img.shields.io) |
 | [**UEFI Scan**](https://github.com) | Firmware | `RESEARCH` | ![GitHub](https://img.shields.io) |
 | [**sl0ppy-lfi**](https://github.com) | Web LFI | `STABLE` | ![GitHub](https://img.shields.io) |
