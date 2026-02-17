@@ -1,3 +1,5 @@
+# ⚡ [ TERMINAL ACCESS: x0xr00t ] ⚡
+
 <div align="center">
 ---
 
@@ -5,9 +7,11 @@
 
 ---
 
-# 👋 Hi, I’m @x0xr00t
-👀 I’m interested in red teaming, and hacking in general.
-📫 How to reach me: [LinkedIn](https://www.linkedin.com)
+## 📂 System Information
+- 👋 **Identity:** @x0xr00t (Patrick Hoogeveen)
+- 📡 **Objective:** Advanced Red Teaming, Windows Internals & Evasion Research.
+- ⚡ **Specialization:** UAC Bypass, Defender Evasion, Kernel Exploitation.
+- 📫 **Secure Channel:** [LinkedIn Connect](https://nl.linkedin.com/patrick-hoogeveen)
 
 ---
 
