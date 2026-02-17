@@ -1,9 +1,9 @@
 # ⚡ Terminal Access: x0xr00t ⚡
 
 <p align="left">
-  <img src="https://img.shields.io" alt="Red Teamer" />
-  <img src="https://img.shields.io" alt="Windows" />
-  <img src="https://img.shields.io" alt="Status" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
 </p>
 
 ---
@@ -17,55 +17,48 @@
 
 ### 🛠️ Hardware & OS Environment
 <p align="left">
-  <img src="https://img.shields.io" alt="Windows" />
-  <img src="https://img.shields.io" alt="BlackArch" />
-  <img src="https://img.shields.io" alt="Intel" />
-  <img src="https://img.shields.io" alt="AMD" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
 </p>
 
 ### 💻 Development & Scripting Arsenal
 <p align="left">
-  <img src="https://img.shields.io" alt="PowerShell" />
-  <img src="https://img.shields.io" alt="Go" />
-  <img src="https://img.shields.io" alt="JS" />
-  <img src="https://img.shields.io" alt="Ruby" />
-  <img src="https://img.shields.io" alt="Bash" />
-  <img src="https://img.shields.io" alt="Python" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
 </p>
 
 ---
 
 ### 📊 System Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" />
-</p>
-
----
-
-### 🏆 Achievement Unlocked
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app" />
 </p>
 
 ---
 
 ### 📁 Exploit & Tool Repositories
-| Project | Badge | Source |
+| Repository | Classification | Source |
 | :--- | :--- | :--- |
-| **Automated UAC Bypass** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **Defender Evasion** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **KPN Path Traversal** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **sl0ppy-ALPI** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **sl0ppy-Nullify-LUA** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **UEFI Scan** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **sl0ppy-lfi** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **sl0ppy-flood** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **sl0ppy-oppg** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **sl0ppy-kaliFix** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **ams** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **DTPMC-Win10** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **GarudaTools** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
-| **PrivescTaskCreator** | ![GitHub Repo](https://img.shields.io) | [Link](https://github.com) |
+| **Automated UAC Bypass** | `![UAC](https://img.shields.io)` | [Access](https://github.com) |
+| **Defender Evasion** | `![AV](https://img.shields.io)` | [Access](https://github.com) |
+| **KPN Path Traversal** | `![PoC](https://img.shields.io)` | [Access](https://github.com) |
+| **sl0ppy-ALPI** | `![Tool](https://img.shields.io)` | [Access](https://github.com) |
+| **sl0ppy-Nullify-LUA** | `![Tool](https://img.shields.io)` | [Access](https://github.com) |
+| **UEFI Scan** | `![UEFI](https://img.shields.io)` | [Access](https://github.com) |
+| **sl0ppy-lfi** | `![LFI](https://img.shields.io)` | [Access](https://github.com) |
+| **sl0ppy-flood** | `![Net](https://img.shields.io)` | [Access](https://github.com) |
+| **sl0ppy-oppg** | `![Repo](https://img.shields.io)` | [Access](https://github.com) |
+| **sl0ppy-kaliFix** | `![Fix](https://img.shields.io)` | [Access](https://github.com) |
+| **ams** | `![AMS](https://img.shields.io)` | [Access](https://github.com) |
+| **DTPMC-Win10** | `![Win10](https://img.shields.io)` | [Access](https://github.com) |
+| **GarudaTools** | `![Garuda](https://img.shields.io)` | [Access](https://github.com) |
+| **PrivescTaskCreator** | `![Task](https://img.shields.io)` | [Access](https://github.com) |
 
 ---
 
