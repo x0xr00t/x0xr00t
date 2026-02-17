@@ -1,3 +1,5 @@
+<div align="center">
+  
 # ⚡ [ RED TEAM TERMINAL ACCESS: x0xr00t ] 💻⚡
 
 ![ghostinthemachine](https://img.shields.io/badge/ghostinthemachine-000000?style=for-the-badge&logo=ghost&logoColor=white)
@@ -6,9 +8,6 @@
 ![uac_king](https://img.shields.io/badge/UAC_King-0055FF?style=for-the-badge&logo=windows&logoColor=white)
 ![grey-bearded-wizzard](https://img.shields.io/badge/greybeardedwizzard-6E4C13?style=for-the-badge&logo=linux&logoColor=white)
 
-
-
-<div align="center">
 ---
 
 ![Hacker Banner 2](https://ishan-rest.vercel.app/svg/banner/hacker2/x0xr00t)
