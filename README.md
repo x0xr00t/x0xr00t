@@ -3,9 +3,6 @@
 
 ![Hacker Banner 2](https://ishan-rest.vercel.app/svg/banner/hacker2/x0xr00t)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com.)](https://git.io)
-
-
 ---
 
 # 👋 Hi, I’m @x0xr00t
