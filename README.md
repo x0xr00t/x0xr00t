@@ -3,16 +3,10 @@
 
 ![Hacker Banner 2](https://ishan-rest.vercel.app/svg/banner/hacker2/x0xr00t)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com.)](https://git.io)
+
 ---
 
-
-<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-  <style> 
-    @import url('https://fonts.googleapis.com');
-
-    .bg { fill: #0d1117; rx: 8; ry: 8; }
-    .text {
-      font-family: 'Fira Code', 'Courier New', monos
 # 👋 Hi, I’m @x0xr00t
 👀 I’m interested in red teaming, and hacking in general.
 📫 How to reach me: [LinkedIn](https://www.linkedin.com)
