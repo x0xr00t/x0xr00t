@@ -3,13 +3,13 @@
 - 👀 I’m interested in red teaming, and hacking in generaly.
 - 📫 How to reach me Linkedin
 
-
+![Views](https://ishan-rest.vercel./svg/count/9/Repository%20Views/x0xr00t)
 <!---
 x0xr00t/x0xr00t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
+
 ![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
 [![Image of https://github.com/melogabriel/repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
 # x0xr00t's Stats
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 # x0xr00t's Lang Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark&langs_count=25)](https://github.com/x0xr00t)
 
-
+![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
 
 # x0xr00t's Repo's (more to be added!!)
 
