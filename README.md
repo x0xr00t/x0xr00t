@@ -8,7 +8,7 @@
 - 👋 **Identity:** @x0xr00t (Patrick Hoogeveen)
 - 📡 **Objective:** Advanced Red Teaming, Windows Internals & Evasion Research.
 - ⚡ **Specialization:** UAC Bypass, Defender Evasion, Kernel Exploitation.
-- 📫 **Secure Channel:** [LinkedIn Connect](https://nl.linkedin.com)
+- 📫 **Secure Channel:** [LinkedIn Connect](https://nl.linkedin.com/patrick-hoogeveen)
 
 ---
 
@@ -23,16 +23,18 @@
 
 ## 📊 C2 Analytics & Network Traffic
 <p align="center">
-  <img src="https://komarev.com" alt="Connections" />
+  <img src="https://komarev.com" alt="x0xr00t Connections" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app" width="480" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app" width="480" alt="x0xr00t stats" />
 </p>
 
 # 🏆 Mission Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app" width="800" alt="Trophies" />
+  <a href="https://github.com">
+    <img src="https://github-profile-trophy.vercel.app" alt="x0xr00t trophies" />
+  </a>
 </p>
 
 ---
