@@ -13,7 +13,21 @@ You can click the Preview link to take a look at your changes.
 # x0xr00t's Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
 
+---
 
+# ☣️ Deployed Exploits & Tools
+
+| Module Name | Vector | Status | Badge |
+| :--- | :--- | :--- | :--- |
+| [**Automated UAC Bypass**](https://github.com) | Windows UAC | `STABLE` | ![GitHub](https://img.shields.io) |
+| [**Defender Evasion**](https://github.com) | AV Bypass | `ACTIVE` | ![GitHub](https://img.shields.io) |
+| [**KPN Path Traversal**](https://github.com) | Web / CVE | `EXPLOITED` | ![GitHub](https://img.shields.io) |
+| [**sl0ppy-ALPI**](https://github.com) | Privesc | `STABLE` | ![GitHub](https://img.shields.io) |
+| [**UEFI Scan**](https://github.com) | Firmware | `RESEARCH` | ![GitHub](https://img.shields.io) |
+| [**sl0ppy-lfi**](https://github.com) | Web LFI | `STABLE` | ![GitHub](https://img.shields.io) |
+| [**sl0ppy-flood**](https://github.com) | Network | `ACTIVE` | ![GitHub](https://img.shields.io) |
+
+---
 
 # x0xr00t's Lang Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark&langs_count=25)](https://github.com/x0xr00t)
