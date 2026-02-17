@@ -44,7 +44,7 @@
 ---
 
 # x0xr00t os 
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-Red?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge&logo=windows&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-Linux-black?style=for-the-badge&logo=linux&logoColor=red)
 ![RedHat](https://img.shields.io/badge/RedHat-Linux-red?style=for-the-badge&logo=redhat&logoColor=white)
