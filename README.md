@@ -14,8 +14,10 @@ You can click the Preview link to take a look at your changes.
 [![Image of https://github.com/melogabriel/repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
 
 # x0xr00t's Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
-![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/x0xr00t)
+![[My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
+
+# x0xr00t builds
+![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/x0xr00t's_BUILDS)
 ---
 
 # ☣️ Deployed Exploits & Tools
