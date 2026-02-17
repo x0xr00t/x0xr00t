@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 <center>
 # x0xr00t's Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
-</center>
+
 # x0xr00t builds
 ![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/x0xr00t's_BUILDS)
 ---
-<center>
+
 # ☣️ Deployed Exploits & Tools
 
 | Module Name | Vector | Status | Badge |
@@ -33,9 +33,9 @@ You can click the Preview link to take a look at your changes.
 | [**UEFI Scan**](https://github.com) | Firmware | `RESEARCH` | ![GitHub](https://img.shields.io) |
 | [**sl0ppy-lfi**](https://github.com) | Web LFI | `STABLE` | ![GitHub](https://img.shields.io) |
 | [**sl0ppy-flood**](https://github.com) | Network | `ACTIVE` | ![GitHub](https://img.shields.io) |
-
----
 </center>
+---
+
 # x0xr00t's Lang Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0xr00t&hide_progress=true&theme=dark&langs_count=25)](https://github.com/x0xr00t)
 
