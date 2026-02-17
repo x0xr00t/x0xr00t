@@ -17,10 +17,8 @@
 
 ### 🛠️ Hardware & OS Environment
 <p align="left">
-  <!-- OS -->
   <img src="https://img.shields.io" />
   <img src="https://img.shields.io" />
-  <!-- Hardware -->
   <img src="https://img.shields.io" />
   <img src="https://img.shields.io" />
 </p>
@@ -53,22 +51,18 @@
 ---
 
 ### 📁 Exploit & Tool Repositories
-<p align="center">
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-</p>
+| Project | Description |
+| :--- | :--- |
+| [🚀 Automated UAC Bypass](https://github.com) | Multi-version Windows UAC bypass tool. |
+| [🛡️ Defender Evasion](https://github.com) | Techniques for bypassing MS Defender. |
+| [📂 KPN File Traversal](https://github.com) | Proof of Concept for KPN Path Traversal. |
+| [🔧 sl0ppy-ALPI](https://github.com) | Advanced Local Privilege Injection. |
+| [⚙️ sl0ppy-Nullify-LUA](https://github.com) | Disabling Limited User Accounts. |
+| [🛰️ sl0ppy-UEFIScan](https://github.com) | UEFI vulnerability scanner. |
+| [🧪 sl0ppy-lfi](https://github.com) | LFI exploitation toolkit. |
+| [💥 sl0ppy-flood](https://github.com) | Network stress testing tool. |
+
+> *Note: Bekijk mijn volledige [Repository List](https://github.com) voor overige projecten zoals `ams`, `DTPMC-Win10`, en `sl0ppy-kaliFix`.*
 
 ---
 
