@@ -1,25 +1,24 @@
 <div align="center">
 
 ![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/x0xr00t)
-
+---
 # 👋 Hi, I’m @x0xr00t
 👀 I’m interested in red teaming, and hacking in general.
 📫 How to reach me [Linkedin](JOUW_LINK_HIER)
-
+---
+---
 ![Views](https://ishan-rest.vercel.app)
 ![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
-[![Image of Repositories Views Counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
-
 ---
 
+---
 # 📊 x0xr00t's Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
 
 # 🛠️ x0xr00t builds
 ![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/BUILDS)
-
 ---
-
+---
 # ☣️ Deployed Exploits & Tools
 
 | Module Name | Vector | Status | Badge |
@@ -30,7 +29,6 @@
 | [**KPN Path Traversal**](https://github.com) | Web / CVE | `EXPLOITED` | ![GitHub](https://img.shields.io) |
 | [**SVGScan**](https://github.com/x0xr00t/sl0ppy-SVGScan) | SVG Recon | `STABLE` | ![GitHub](https://img.shields.io) |
 | [**sl0ppy-ALPI**](https://github.com) | Privesc | `STABLE` | ![GitHub](https://img.shields.io) |
-
 ---
 
 # 💻 Language Stats
