@@ -47,10 +47,13 @@
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge&logo=windows&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-Linux-black?style=for-the-badge&logo=linux&logoColor=red)
+![RedHat](https://img.shields.io/badge/RedHat-Linux-red?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-Linux-red?style=for-the-badge&logo=debian&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-Desktop-black?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-OS-green?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-Mobile-black?style=for-the-badge&logo=apple&logoColor=white)
-![RedHat](https://img.shields.io/badge/RedHat-Linux-red?style=for-the-badge&logo=redhat&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-Desktop-black?style=for-the-badge&logo=apple&logoColor=white)
+
 
 ---
 # 🚀 Top Repositories
