@@ -1,7 +1,7 @@
 # ⚡ [ TERMINAL ACCESS: x0xr00t ] ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app" width="100%"/>
+  <img src="https://capsule-render.vercel.app" width="100%" alt="Header" />
 </p>
 
 ## 📂 System Information
@@ -24,42 +24,35 @@
 ## 📊 C2 Analytics & Network Traffic
 <p align="center">
   <img src="https://komarev.com" alt="Connections" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app" width="48%" />
-  <img src="https://github-readme-stats.vercel.app" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" width="480" alt="Stats" />
 </p>
 
 # 🏆 Mission Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app" width="800" alt="Trophies" />
 </p>
 
 ---
 
-# ☣️ Active Exploits & Tools (Deployed)
+# ☣️ Deployed Exploits & Tools
 
-<p align="center">
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-  <a href="https://github.com"><img src="https://github-readme-stats.vercel.app" /></a>
-</p>
-
-### 🛠️ Sub-Modules & POCs
-| Module Name | Vector | Status |
-| :--- | :--- | :--- |
-| [**sl0ppy-ALPI**](https://github.com) | Privesc / Injection | `STABLE` |
-| [**KPN Path Traversal**](https://github.com) | Web / CVE-2023 | `EXPLOITED` |
-| [**sl0ppy-Nullify-LUA**](https://github.com) | Account Bypass | `STABLE` |
-| [**UEFI Scan**](https://github.com) | Firmware / Bootkit | `RESEARCH` |
-| [**DTPMC-Win10**](https://github.com) | Win10 Privesc | `STABLE` |
-| [**sl0ppy-lfi**](https://github.com) | Web / Payload | `STABLE` |
-| [**sl0ppy-flood**](https://github.com) | Network / DOS | `ACTIVE` |
-
-> **Note:** Overige modules zoals `ams`, `sl0ppy-kaliFix`, `GarudaTools` en `PrivescTaskCreator` zijn beschikbaar in de [Main Repository Index](https://github.com).
+| Module Name | Vector | Status | Badge |
+| :--- | :--- | :--- | :--- |
+| [**Automated UAC Bypass**](https://github.com) | Windows UAC | `STABLE` | ![GitHub](https://img.shields.io) |
+| [**Defender Evasion**](https://github.com) | AV Bypass | `ACTIVE` | ![GitHub](https://img.shields.io) |
+| [**KPN Path Traversal**](https://github.com) | Web / CVE | `EXPLOITED` | ![GitHub](https://img.shields.io) |
+| [**sl0ppy-ALPI**](https://github.com) | Privesc | `STABLE` | ![GitHub](https://img.shields.io) |
+| [**UEFI Scan**](https://github.com) | Firmware | `RESEARCH` | ![GitHub](https://img.shields.io) |
+| [**sl0ppy-lfi**](https://github.com) | Web LFI | `STABLE` | ![GitHub](https://img.shields.io) |
+| [**sl0ppy-flood**](https://github.com) | Network | `ACTIVE` | ![GitHub](https://img.shields.io) |
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app" width="100%"/>
+  <img src="https://capsule-render.vercel.app" width="100%" alt="footer" />
 </p>
 
 <p align="center">
