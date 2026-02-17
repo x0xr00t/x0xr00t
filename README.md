@@ -8,6 +8,8 @@
 x0xr00t/x0xr00t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
 ![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
 [![Image of https://github.com/melogabriel/repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
 # x0xr00t's Stats
