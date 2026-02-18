@@ -93,9 +93,7 @@
 ---
 ## Hall of fame 
 
-![KPN Hall of Fame 2023](x0xr00t/kpn.png)
-
-
+[![KPN Hall of Fame 2023](https://raw.githubusercontent.com/x0xr00t/x0xr00t/main/assets/kpn.png)](https://github.com/x0xr00t/x0xr00t)
 
 # 🚀 Top Repositories
 *(more to be added!!)*
