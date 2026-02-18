@@ -96,17 +96,6 @@
 
 ---
 
-### 🏆 GitHub Profile Trophies
-
-### 🏆 GitHub Profile Trophies
-
-<img 
-    src="https://github-profile-trophy.vercel.app/?username=x0xr00t&theme=radical&no-frame=true&column=7" 
-    alt="x0xr00t GitHub Trophies" 
-    width="810"
-/>
-
-
 </div>
 
 
