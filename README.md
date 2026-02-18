@@ -7,6 +7,7 @@
 ![intrusion_artist](https://img.shields.io/badge/intrusion_artist-FF4500?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![uac_king](https://img.shields.io/badge/UAC_King-0055FF?style=for-the-badge&logo=windows&logoColor=white)
 ![grey-bearded-wizzard](https://img.shields.io/badge/greybeardedwizzard-6E4C13?style=for-the-badge&logo=linux&logoColor=white)
+![KPN Hall of Fame 2023](https://img.shields.io/badge/KPN-Hall%20of%20Fame%202023-00ff9c?style=for-the-badge&logo=kpn&logoColor=white)
 
 ---
 
@@ -44,6 +45,20 @@
 | [**KPN Path Traversal**](https://github.com/x0xr00t/KPN-FilePathTraversal-POC-2023) | Web / CVE | `EXPLOITED` | ![GitHub stars](https://img.shields.io) |
 | [**SVGScan**](https://github.com/x0xr00t/sl0ppy-SVGScan) | SVG Recon | `STABLE` | ![GitHub stars](https://img.shields.io) |
 | [**sl0ppy-ALPI**](https://github.com/x0xr00t/sl0ppy-ALPI) | Privesc | `STABLE` | ![GitHub stars](https://img.shields.io) |
+
+
+
+|                                      Module Name                                      |                  Vector                 |    Status   |                                                   Badge                                                  |
+| :-----------------------------------------------------------------------------------: | :-------------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------: |
+|   [**Automated UAC Bypass**](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass)   |  Windows UAC     / Privilege Escalation |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/Automated-MUlti-UAC-Bypass?style=social)   |
+| [**sl0ppy-PrivescTaskCreator**](https://github.com/x0xr00t/sl0ppy-PrivescTaskCreator) |  Task Scheduling / Privilege Escalation |   `STABLE`  |    ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-PrivescTaskCreator?style=social)   |
+|               [**sl0ppy-OPPG**](https://github.com/x0xr00t/sl0ppy-oppg)               |   Payload Generator / Custom Exploits   |   `ACTIVE`  |           ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-oppg?style=social)          |
+|              [**Omni-Pollute**](https://github.com/x0xr00t/SilentReject-OmniPollute)              |    Persistent Multi-Vector Infection    |   `ACTIVE`  |          ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/SilentReject-OmniPollute?style=social)          |
+|  [**KPN Path Traversal**](https://github.com/x0xr00t/KPN-FilePathTraversal-POC-2023)  |                Web / CVE                | `EXPLOITED` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/KPN-FilePathTraversal-POC-2023?style=social) |
+|                [**SVGScan**](https://github.com/x0xr00t/sl0ppy-SVGScan)               |       SVG Recon / Exploit Scanner       |   `STABLE`  |         ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-SVGScan?style=social)         |
+|               [**sl0ppy-ALPI**](https://github.com/x0xr00t/sl0ppy-ALPI)               | Privilege Escalation / Lateral Movement |   `STABLE`  |           ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-ALPI?style=social)          |
+|                 [**lnkhunter**](https://github.com/x0xr00t/sl0ppy-LNKHunter)                 |     Link Scanner / Threat Detection     |   `STABLE`  |            ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/LNKHunter?style=social)           |
+|                | [**sl0ppy‑defender‑evasion**](https://github.com/x0xr00t/sl0ppy-defender-evasion) | Techniques for testing and improving resilience against security products | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-defender-evasion?style=social) |
 
 ---
 
