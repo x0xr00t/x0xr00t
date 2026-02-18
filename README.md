@@ -95,16 +95,6 @@
 
 [![KPN Hall of Fame 2023](https://raw.githubusercontent.com/x0xr00t/x0xr00t/main/assets/kpn.png)](https://github.com/x0xr00t/x0xr00t)
 
-# 🚀 Top Repositories
-*(more to be added!!)*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=Automated-MUlti-UAC-Bypass)](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-ALPI)](https://github.com/x0xr00t/sl0ppy-ALPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-oppg)](https://github.com/x0xr00t/sl0ppy-oppg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=KPN-FilePathTraversal-POC-2023)](https://github.com/x0xr00t/KPN-FilePathTraversal-POC-2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-defender-evasion)](https://github.com/x0xr00t/sl0ppy-defender-evasion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x0xr00t&theme=dark&repo=sl0ppy-lfi)](https://github.com/x0xr00t/sl0ppy-lfi)
-
 ---
 
 ### 🏆 GitHub Profile Trophies
