@@ -71,6 +71,20 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white)
 
+### 🕵️‍♂️ Red Team / 0day / Hacking Tools:
+![Metasploit](https://img.shields.io/badge/Metasploit-050505?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0C2D83?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-CC0000?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-FF0000?style=for-the-badge&logo=tenable&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-002C54?style=for-the-badge&logoColor=white)
+![Brute Ratel](https://img.shields.io/badge/Brute_Ratel-FF4500?style=for-the-badge&logoColor=white)
+![Immunity Debugger](https://img.shields.io/badge/Immunity_Debugger-005A9C?style=for-the-badge&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-0C2D83?style=for-the-badge&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-6E4C13?style=for-the-badge&logoColor=white)
+![Custom Tooling](https://img.shields.io/badge/Custom_0day-800080?style=for-the-badge&logoColor=white)
 
 ---
 # 🚀 Top Repositories
