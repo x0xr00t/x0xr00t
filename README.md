@@ -25,7 +25,6 @@
 
 ![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
 [![Image of Repositories Views Counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
-
 ---
 # 📊 x0xr00t's Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
@@ -98,9 +97,10 @@
 ---
 
 ### 🏆 GitHub Profile Trophies
-<img width="810" src="https://github-profile-trophy.vercel.app" alt="x0xr00t trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=x0xr00t&theme=radical&no-frame=true&column=7" alt="x0xr00t GitHub Trophies" width="810"/>
+
 
 </div>
 
 
-![Projects List Banner 2](https://ishan-rest.vercel.app/svg/projects/hacker/Project_Alpha[A modern web app,[Python,React,JavaScript]]/Project_Beta[ML pipeline,[Python,TensorFlow,Flask]])
