@@ -93,7 +93,7 @@
 ---
 ## Hall of fame 
 
-![KPN Hall of Fame 2023](x0xr00t/assets/kpn.png)
+![KPN Hall of Fame 2023](x0xr00t/kpn.png)
 
 
 
