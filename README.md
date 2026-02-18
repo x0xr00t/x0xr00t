@@ -91,6 +91,11 @@
 ![Custom Tooling](https://img.shields.io/badge/Custom_0day-800080?style=for-the-badge&logoColor=white)
 
 ---
+## Hall of fame 
+
+[![KPN Hall of Fame 2023](x0xr00t/assets/kpn.png)](https://github.com/x0xr00t/x0xr00t)
+
+
 # 🚀 Top Repositories
 *(more to be added!!)*
 
