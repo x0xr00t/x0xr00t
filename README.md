@@ -101,3 +101,6 @@
 <img width="810" src="https://github-profile-trophy.vercel.app" alt="x0xr00t trophies" />
 
 </div>
+
+
+![Projects List Banner 2](https://ishan-rest.vercel.app/svg/projects/hacker/Project_Alpha[A modern web app,[Python,React,JavaScript]]/Project_Beta[ML pipeline,[Python,TensorFlow,Flask]])
