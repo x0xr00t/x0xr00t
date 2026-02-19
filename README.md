@@ -96,6 +96,19 @@
 
 ---
 
+⚖️ Legal Disclaimer
+
+```
+    [!CAUTION]
+    FOR EDUCATIONAL AND ETHICAL TESTING PURPOSES ONLY.
+    The use of these tools for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws.
+    Key Terms of Use:
+
+        Authorization: You must only use these tools on systems you own or have explicit, written authorization to test.
+        No Liability: The creator assumes no liability and is not responsible for any misuse or damage caused by these tools.
+        As-Is Basis: This software is provided "as-is" without any warranty of any kind.
+        Risk Acknowledgment: Security testing can cause system instability or data loss; use strictly at your own risk.
+```
 </div>
 
 
