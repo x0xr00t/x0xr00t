@@ -18,7 +18,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZING...;Sl0ppyr00t++USER+IDENTIFY;IDENTIFIED+USER:+x0xr00t" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=SYSTEM+INDENTIFYING...;Sl0ppyr00t++USER+IDENTIFY;IDENTIFIED+USER:+x0xr00t" />
 </p>
 
 ## 📂 System Information
