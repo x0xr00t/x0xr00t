@@ -109,6 +109,11 @@
         As-Is Basis: This software is provided "as-is" without any warranty of any kind.
         Risk Acknowledgment: Security testing can cause system instability or data loss; use strictly at your own risk.
 ```
+<
+
+p align="center">
+  <code>01001000 01100001 01100011 01101011 00100000 01110100 01101000 01100101 00100000 01010000 01101100 01100001 01101110 01100101 01110100</code>
+</p>
 </div>
 
 
