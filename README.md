@@ -24,6 +24,10 @@
 - ⚡ **Specialization:** UAC Bypass, Defender Evasion, Kernel Exploitation.
 - 📫 **Secure Channel:** [LinkedIn Connect](https://nl.linkedin.com/patrick-hoogeveen)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=1000&lines=📂+System+Information;👋+Identity:+@x0xr00t+(Patrick+Hoogeveen);📡+Objective:+Advanced+Red+Teaming,+Windows+Internals+%26+Evasion+Research.;⚡+Specialization:+UAC+Bypass,+Defender+Evasion,+Kernel+Exploitation.;📫+Secure+Channel:+LinkedIn+Connect" />
+</p>
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
