@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZING...;RED+TEAM+TERMINAL+ACCESS;AUTHORIZED+USER:+x0xr00t" />
+</p>
 <div align="center">
   
 # ⚡ [ RED TEAM TERMINAL ACCESS: x0xr00t ] 💻⚡
@@ -113,6 +116,10 @@
 
 <p align="center">
   <code>01001000 01100001 01100011 01101011 00100000 01110100 01101000 01100101 00100000 01010000 01101100 01100001 01101110 01100101 01110100</code>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00FF9C&center=true&vCenter=true&width=1000&lines=NEURAL+INTERFACE+ACTIVE;INTRUSION+MODE+ENGAGED;CYBERPUNK+SECURITY+RESEARCH" />
 </p>
 </div>
 
