@@ -29,7 +29,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=OBJECTIVES...;RED++TEAMING;Windows++Internals;Evasion++Research;0DAY++DEV;Intrustion++Artist" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=Specialization...;0DAY++DEV;Intrustion++Artist;UAC++Bypass;Defender++Evasion;Kernel++Exploit" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=6000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=Specialization...;0DAY++DEV;Intrustion++Artist;UAC++Bypass;Defender++Evasion;Kernel++Exploit" />
 </p>
 
 - 📫 **Secure Channel:** [LinkedIn Connect](https://nl.linkedin.com/patrick-hoogeveen)
