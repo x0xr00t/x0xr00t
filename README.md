@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZING...;RED+TEAM+TERMINAL+ACCESS;AUTHORIZED+USER:+x0xr00t" />
-</p>
 <div align="center">
   
 # ⚡ [ RED TEAM TERMINAL ACCESS: x0xr00t ] 💻⚡
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZING...;RED+TEAM+TERMINAL+ACCESS;AUTHORIZED+USER:+x0xr00t" />
+</p>
 
 ![ghostinthemachine](https://img.shields.io/badge/ghostinthemachine-000000?style=for-the-badge&logo=ghost&logoColor=white)
 ![x0xr00t](https://img.shields.io/badge/x0xr00t-1a1a1a?style=for-the-badge&logo=terminal&logoColor=#00ff9c)
