@@ -22,9 +22,16 @@
 </p>
 
 ## 📂 System Information
-- 👋 **Identity:** @x0xr00t (Patrick Hoogeveen)
-- 📡 **Objective:** Advanced Red Teaming, Windows Internals & Evasion Research.
-- ⚡ **Specialization:** UAC Bypass, Defender Evasion, Kernel Exploitation.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=IDENTITY+@x0xr00t...;NAME++PATRICK;LASTNAME++HOOGEVEEN" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=OBJECTIVES...;RED++TEAMING++Windows+Internals++Evasion++Research++0DAY++DEV++Intrustion++Artist" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=Specialization...;0DAY_DEV++Intrustion_Artist++UAC_Bypass++Defender_Evasion++Kernel+Exploit" />
+</p>
+
 - 📫 **Secure Channel:** [LinkedIn Connect](https://nl.linkedin.com/patrick-hoogeveen)
 
 ---
