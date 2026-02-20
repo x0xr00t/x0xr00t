@@ -23,7 +23,7 @@
 
 ## 📂 System Information
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=IDENTITY+@x0xr00t...;NAME: PATRICK...;LASTNAME: HOOGEVEEN..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=IDENTITY+@x0xr00t...;NAME:++PATRICK...;LASTNAME:++HOOGEVEEN..." />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=OBJECTIVES...;RED++TEAMING;Windows++Internals;Evasion++Research;0DAY++DEV;Intrustion++Artist" />
