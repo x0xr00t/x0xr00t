@@ -38,7 +38,7 @@
 
 ![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
 [![Image of Repositories Views Counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
-![Forks](https://img.shields.io/github/forks/x0xr00t/my-awesome-repo?style=for-the-badge&color=blue)
+![Forks](https://img.shields.io/github/forks/x0xr00t?style=for-the-badge&color=blue)
 
 ---
 # 📊 x0xr00t's Stats
