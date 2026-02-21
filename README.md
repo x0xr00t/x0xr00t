@@ -45,6 +45,7 @@
 ## 📈 Commit Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x0xr00t&theme=dark&hide_border=true)
+
 ---
 # 🛠️ x0xr00t builds
 ![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/BUILDS)
@@ -106,6 +107,29 @@
 ![Custom Tooling](https://img.shields.io/badge/Custom_0day-800080?style=for-the-badge&logoColor=white)
 
 ---
+
+# 📊 ADVANCED PROFILE SUMMARY
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0xr00t&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x0xr00t&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=x0xr00t&theme=github_dark"/>
+</p>
+
+---
+
+# 🧬 ACTIVITY BREAKDOWN
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x0xr00t&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x0xr00t&theme=github_dark&utcOffset=1"/>
+</p>
+
+---
+
 ## Hall of fame 
 
 [![KPN Hall of Fame 2023](https://raw.githubusercontent.com/x0xr00t/x0xr00t/main/assets/kpn.png)](https://github.com/x0xr00t/x0xr00t)
