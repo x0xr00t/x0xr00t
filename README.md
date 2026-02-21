@@ -111,12 +111,12 @@
 # 📊 ADVANCED PROFILE SUMMARY
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0xr00t&theme=radical&title_color=FF0000&icon_color=FF0000"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0xr00t&theme=radical&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x0xr00t&theme=radical&title_color=FF0000&icon_color=FF0000"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=x0xr00t&theme=radical&title_color=FF0000&icon_color=FF0000"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x0xr00t&theme=radical&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=x0xr00t&theme=radical&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000"/>
 </p>
 
 ---
@@ -124,9 +124,9 @@
 # 🧬 ACTIVITY BREAKDOWN
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x0xr00t&theme=radical&title_color=FF0000&icon_color=FF0000"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x0xr00t&theme=radical&title_color=FF0000&icon_color=FF0000&utcOffset=1"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x0xr00t&theme=radical&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x0xr00t&theme=radical&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000&utcOffset=1"/>
+</p>>
 
 ## Hall of fame 
 
