@@ -1,3 +1,9 @@
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDgwMCAzMDAiIGZpbGwpIm5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8ZmlsdGVyIGlkPSJnIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iOCIgcmVzdWx0PSJiIi8+CiAgICAgIDxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iYiIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iIzAwMCIvPgogIDxnIGZpbHRlcj0idXJsKCNnKSI+CiAgICA8cGF0aCBkPSJNNTAgNUg3NTBNNSA1VjI5NU03OTUgNVYyOTVNNTAgMjk1SDc1MCIgc3Ryb2tlPSIjMzMzIiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDxwYXRoIGQ9Ik0wIDVIODAwIiBzdHJva2U9IiNmZjAwNTUiIHN0cm9rZS13aWR0aD0iNiIvPgogICAgPHBhdGggZD0iTTAgMjk1SDgwMCIgc3Ryb2tlPSIjMDBmZjk5IiBzdHJva2Utd2lkdGg9IjYiLz4KICAgIDx0ZXh0IHg9IjQwMCIgeT0iMTQwIiBmaWxsPSIjZmYwMDU1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iYm9sZCI+Q1lCRVJQVU5LPC90ZXh0PgogICAgPHRleHQgeD0iNDAwIiB5PSIxODAiIGZpbGw9IiMwMGZmOTkiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHN0eWxlPSJvcGFjaXR5OjAuOCI+W1NZU1RFTSBPTkxJTkVfXTwvdGV4dD4KICA8L2c+Cjwvc3ZnPg==" width="100%">
-</p>
+<div align="center">
+
+
+| <b style="color:#ff0055; text-shadow: 0 0 10px #ff0055;">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ NEON FRAME ACTIVE ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</b> |
+| :--- |
+| <blockquote style="background-color: #000; border-top: 4px solid #ff0055; border-bottom: 4px solid #00ff99; border-left: 2px solid #ff0055; border-right: 2px solid #00ff99; padding: 60px; margin: 0;"> <h1 align="center" style="color: #ff0055; font-family: monospace; text-shadow: 2px 2px 15px #ff0055;"> ⚡ SYSTEM OVERRIDE </h1> <p align="center" style="color: #00ff99; font-family: monospace; text-shadow: 0 0 10px #00ff99;"> > DECRYPTING NEON PROTOCOL... <br> > STATUS: OPERATIONAL </p> </blockquote> |
+| <b style="color:#00ff99; text-shadow: 0 0 10px #00ff99;">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</b> |
+
+</div>
