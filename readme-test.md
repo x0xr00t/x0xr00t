@@ -1,44 +1,42 @@
 <div align="center">
 
-<!-- ================= TOP CYBERPUNK GLOW BANNER ================= -->
-<svg width="100%" height="60" viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+<!-- ================= WORKING CYBERPUNK TOP BORDER ================= -->
+<svg width="100%" height="70" viewBox="0 0 1000 70" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <!-- Animated Gradient -->
-    <linearGradient id="neonGradientTop" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Moving Gradient -->
+    <linearGradient id="flowRed" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff0033">
-        <animate attributeName="stop-color"
-                 values="#ff0033;#ff3366;#ff0033"
-                 dur="2s"
-                 repeatCount="indefinite"/>
+        <animate attributeName="offset" values="-1;1" dur="3s" repeatCount="indefinite"/>
       </stop>
+      <stop offset="50%" stop-color="#ff3366"/>
       <stop offset="100%" stop-color="#ff0033"/>
     </linearGradient>
-
-    <!-- Glow Effect -->
-    <filter id="glowTop" height="300%" width="300%" x="-100%" y="-100%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <rect x="10" y="10" width="980" height="30" rx="15"
+  <!-- Outer fake glow -->
+  <rect x="5" y="15" width="990" height="40" rx="20"
         fill="none"
-        stroke="url(#neonGradientTop)"
-        stroke-width="5"
-        filter="url(#glowTop)">
-    <animate attributeName="stroke-opacity"
-             values="0.4;1;0.4"
-             dur="1.4s"
+        stroke="#ff0033"
+        stroke-width="10"
+        opacity="0.25">
+    <animate attributeName="opacity"
+             values="0.2;0.6;0.2"
+             dur="1.6s"
              repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Main animated border -->
+  <rect x="10" y="20" width="980" height="30" rx="15"
+        fill="none"
+        stroke="url(#flowRed)"
+        stroke-width="4">
   </rect>
 
 </svg>
 
-<!-- ================= MAIN CONTENT ================= -->
+<!-- ================= CONTENT ================= -->
+
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td style="
@@ -63,54 +61,41 @@ border-radius: 12px;
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0xr00t&theme=react-dark&hide_border=true" />
 
----
-
-### 🏴‍☠️ Identity
-
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows)
-![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux)
-![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go)
-
----
-
 </td>
 </tr>
 </table>
 
-<!-- ================= BOTTOM CYBERPUNK GLOW ================= -->
-<svg width="100%" height="60" viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+<!-- ================= WORKING CYBERPUNK BOTTOM BORDER ================= -->
+
+<svg width="100%" height="70" viewBox="0 0 1000 70" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <linearGradient id="neonGradientBottom" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="flowGreen" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00ff88">
-        <animate attributeName="stop-color"
-                 values="#00ff88;#00ffaa;#00ff88"
-                 dur="2s"
-                 repeatCount="indefinite"/>
+        <animate attributeName="offset" values="-1;1" dur="3s" repeatCount="indefinite"/>
       </stop>
+      <stop offset="50%" stop-color="#00ffaa"/>
       <stop offset="100%" stop-color="#00ff88"/>
     </linearGradient>
-
-    <filter id="glowBottom" height="300%" width="300%" x="-100%" y="-100%">
-      <feGaussianBlur stdDeviation="6" result="blur2"/>
-      <feMerge>
-        <feMergeNode in="blur2"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <rect x="10" y="10" width="980" height="30" rx="15"
+  <!-- Outer fake glow -->
+  <rect x="5" y="15" width="990" height="40" rx="20"
         fill="none"
-        stroke="url(#neonGradientBottom)"
-        stroke-width="5"
-        filter="url(#glowBottom)">
-    <animate attributeName="stroke-opacity"
-             values="0.4;1;0.4"
-             dur="1.4s"
+        stroke="#00ff88"
+        stroke-width="10"
+        opacity="0.25">
+    <animate attributeName="opacity"
+             values="0.2;0.6;0.2"
+             dur="1.6s"
              repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Main animated border -->
+  <rect x="10" y="20" width="980" height="30" rx="15"
+        fill="none"
+        stroke="url(#flowGreen)"
+        stroke-width="4">
   </rect>
 
 </svg>
