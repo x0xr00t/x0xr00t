@@ -1,28 +1,3 @@
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: #000000;">
-    <!-- Top: Neon Red Line -->
-    <tr>
-      <td style="padding: 0;">
-        <img src="https://raw.githubusercontent.com" width="800px" height="5px" style="display: block;">
-      </td>
-    </tr>
-    <!-- Content Area with Black Background -->
-    <tr>
-      <td style="background-color: #000000; padding: 40px; border-left: 2px solid #ff0055; border-right: 2px solid #00ff99;">
-        <h1 style="color: #ff0055; font-family: 'Courier New', monospace; text-shadow: 0 0 10px #ff0055;">
-          ACCESS GRANTED
-        </h1>
-        <p style="color: #00ff99; font-family: 'Courier New', monospace; text-shadow: 0 0 5px #00ff99;">
-          // System initialized... <br>
-          // Cyberpunk frame active.
-        </p>
-      </td>
-    </tr>
-    <!-- Bottom: Neon Green Line -->
-    <tr>
-      <td style="padding: 0;">
-        <img src="https://raw.githubusercontent.com" width="800px" height="5px" style="display: block;">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgNjAwIDIwMCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGZvcmVpZ25PYmplY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSI+CiAgICA8ZGl2IHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj4KICAgICAgPHN0eWxlPgogICAgICAgIEBrZXlmcmFtZXMgZ2xvdyB7CiAgICAgICAgICAwJSwgMTAwJSB7IGJveC1zaGFkb3c6IDAgMCA1cHggI2ZmMDA1NSwgaW5zZXQgMCAwIDVweCAjZmYwMDU1OyB9CiAgICAgICAgICA1MCUgeyBib3gtc2hhZG93OiAwIDAgMjBweCAjZmYwMDU1LCBpbnNldCAwIDAgMTBweCAjZmYwMDU1OyB9CiAgICAgICAgfQogICAgICAgIEBrZXlmcmFtZXMgZ2xvd0dyZWVuIHsKICAgICAgICAgIDAlLCAxMDAlIHsgYm94LXNoYWRvdzogMCAwIDVweCAjMDBmZjk5LCBpbnNldCAwIDAgNXB4ICMwMGZmOTk7IH0KICAgICAgICAgIDUwJSB7IGJveC1zaGFkb3c6IDAgMCAyMHB4ICMwMGZmOTksIGluc2V0IDAgMCAxMHB4ICMwMGZmOTk7IH0KICAgICAgICB9CiAgICAgICAgLmZyYW1lIHsKICAgICAgICAgIGJhY2tncm91bmQ6ICMwMDA7CiAgICAgICAgICBib3JkZXItbGVmdDogMnB4IHNvbGlkICNmZjAwNTU7CiAgICAgICAgICBib3JkZXItcmlnaHQ6IDJweCBzb2xpZCAjMDBmZjk5OwogICAgICAgICAgaGVpZ2h0OiAxODBweDsKICAgICAgICAgIG1hcmdpbjogMTBweDsKICAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgICAgICBmb250LWZhbWlseTogJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlOwogICAgICAgICAgY29sb3I6ICNmZmY7CiAgICAgICAgfQogICAgICAgIC50b3AtYmFyIHsgcG9zaXRpb246IGFic29sdXRlOyB0b3A6IDA7IGxlZnQ6IDA7IHJpZ2h0OiAwOyBoZWlnaHQ6IDRweDsgYmFja2dyb3VuZDogI2ZmMDA1NTsgYW5pbWF0aW9uOiBnbG93IDJzIGludGVydmFsIGluZmluaXRlOyB9CiAgICAgICAgLmJvdHRvbS1iYXIgeyBwb3NpdGlvbjogYWJzb2x1dGU7IGJvdHRvbTogMDsgbGVmdDogMDsgcmlnaHQ6IDA7IGhlaWdodDogNHB4OyBiYWNrZ3JvdW5kOiAjMDBmZjk5OyBhbmltYXRpb246IGdsb3dHcmVlbiAycyBpbnRlcnZhbCBpbmZpbml0ZTsgfQogICAgICAgIC5jb250ZW50IHsgbWFyZ2luOiBhdXRvOyB0ZXh0LWFsaWduOiBjZW50ZXI7IH0KICAgICAgPC9zdHlsZT4KICAgICAgPGRpdiBjbGFzcz0iZnJhbWUiPgogICAgICAgIDxkaXYgY2xhc3M9InRvcC1iYXIiPjwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9ImNvbnRlbnQiPgogICAgICAgICAgPGgxIHN0eWxlPSJjb2xvcjogI2ZmMDA1NTsgdGV4dC1zaGFkb3c6IDAgMCAxMHB4ICNmZjAwNTU7Ij5TWVNURU0gT05MSU5FPC9oMT4KICAgICAgICAgIDxwIHN0eWxlPSJjb2xvcjogIzAwZmY5OTsiPltO RU9OIEZSTUUKREU0S108L3A+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iYm90dG9tLWJhciI+PC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPC9mb3JlaWduT2JqZWN0Pgo8L3N2Zz4=" width="100%">
+</p>
