@@ -65,9 +65,7 @@
 
 ## 📈 Commit Activity
 
-<!-- GitHub Contributions Chart -->
-![Commit Activity](https://activity-graph.herokuapp.com/graph?username=x0xr00t&theme=react-dark&hide_border=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x0xr00t&theme=dark&hide_border=true)
 ---
 
 ### 🖥️ Platforms / OS:
