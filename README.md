@@ -41,7 +41,9 @@
 ---
 # 📊 x0xr00t's Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
+## 📈 Commit Activity
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x0xr00t&theme=dark&hide_border=true)
 ---
 # 🛠️ x0xr00t builds
 ![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/BUILDS)
@@ -61,11 +63,6 @@
 |                 [**lnkhunter**](https://github.com/x0xr00t/sl0ppy-LNKHunter)                 |     Link Scanner / Threat Detection     |   `STABLE`  |            ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-LNKHunter?style=social)           |
 |                | [**sl0ppy‑defender‑evasion**](https://github.com/x0xr00t/sl0ppy-defender-evasion) | Bypass Method for defender  | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-defender-evasion?style=social) |  
 
----
-
-## 📈 Commit Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x0xr00t&theme=dark&hide_border=true)
 ---
 
 ### 🖥️ Platforms / OS:
