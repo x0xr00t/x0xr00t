@@ -1,3 +1,9 @@
-<p align="center">
-  <img src="data:image/svg+xml;charset=utf8,%3Csvg width='800' height='250' xmlns='http://www.w3.org id='glow'%3E%3CfeGaussianBlur stdDeviation='4' result='blur'/%3E%3CfeMerge%3E%3CfeMergeNode in='blur'/%3E%3CfeMergeNode in='SourceGraphic'/%3E%3C/feMerge%3E%3C/filter%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='black'/%3E%3Cg filter='url(%23glow)'%3E%3Cpath d='M10 10h780' stroke='%23ff0055' stroke-width='6'/%3E%3Cpath d='M10 240h780' stroke='%2300ff99' stroke-width='6'/%3E%3Cpath d='M10 10v230' stroke='%23ff0055' stroke-width='2'/%3E%3Cpath d='M790 10v230' stroke='%2300ff99' stroke-width='2'/%3E%3Ctext x='50%25' y='45%25' dominant-baseline='middle' text-anchor='middle' fill='%23ff0055' font-family='monospace' font-size='32' font-weight='bold'%3ESYSTEM OVERRIDE%3Canimate attributeName='opacity' values='1;0.6;1' dur='2s' repeatCount='indefinite'/%3E%3C/text%3E%3Ctext x='50%25' y='65%25' dominant-baseline='middle' text-anchor='middle' fill='%2300ff99' font-family='monospace' font-size='18'%3E%3E NEON PROTOCOL ACTIVE%3C/text%3E%3C/g%3E%3C/svg%3E" width="100%">
-</p>
+<div align="center">
+
+
+| <h3 style="color: #ff0055;">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ NEON RED TOP ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</h3> |
+| :--- |
+| <pre><code><span style="color: #ff0055;"># SYSTEM OVERRIDE</span><br><span style="color: #00ff99;">> DECRYPTING NEON PROTOCOL...</span><br><span style="color: #00ff99;">> STATUS: OPERATIONAL</span></code></pre> |
+| <h3 style="color: #00ff99;">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ NEON GREEN BOTTOM ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</h3> |
+
+</div>
