@@ -63,6 +63,13 @@
 
 ---
 
+## 📈 Commit Activity
+
+<!-- GitHub Contributions Chart -->
+![Commit Activity](https://activity-graph.herokuapp.com/graph?username=x0xr00t&theme=react-dark&hide_border=true)
+
+---
+
 ### 🖥️ Platforms / OS:
 ![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
 ![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple)
