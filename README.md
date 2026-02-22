@@ -42,9 +42,6 @@
 ---
 # 📊 x0xr00t's Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/x0xr00t?cardType=level&theme=onedark)](https://github.com/x0xr00t)
-## 📈 Commit Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x0xr00t&theme=dark&hide_border=true)
 
 ---
 # 🛠️ x0xr00t builds
