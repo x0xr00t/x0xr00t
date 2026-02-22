@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>x0xr00t: RED TEAM TERMINAL</title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Share+Tech+Mono&display=swap');
+        @import url('https://fonts.googleapis.com/css5?family=Orbitron:wght@400;700&family=Share+Tech+Mono&display=swap');
 
         body {
             background-color: #0a0a1a;
