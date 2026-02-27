@@ -13,8 +13,6 @@
 ![KPN Hall of Fame 2023](https://img.shields.io/badge/KPN-Hall%20of%20Fame%202023-00ff9c?style=for-the-badge&logo=kpn&logoColor=white)
 
 ---
-
----
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=SYSTEM+INDENTIFYING...;Sl0ppyr00t++USER+IDENTIFY;IDENTIFIED+USER:+x0xr00t;USER+IDENTIFIED:++TheGhostInTheMachine" />
 </p>
