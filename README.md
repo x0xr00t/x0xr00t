@@ -37,7 +37,7 @@
 
 ---
 
-![Hacker Banner 2](https://ishan-rest.vercel.app/svg/banner/hacker2/x0xr00t)
+![Hacker Banner 2](https://ishan-rest.vercel.app/svg/banner/hacker2/X̶̰͊̉0̶̙͠͠X̶͉͝͠R̶̖̈́͠0̶̙͠͠0̶̙͠͠T̶̰͊̉)
 
 ---
 
