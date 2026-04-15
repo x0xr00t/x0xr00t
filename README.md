@@ -1,6 +1,26 @@
 <div align="center">
   
-# ⚡ [ RED TEAM TERMINAL ACCESS: x0xr00t ] 💻⚡
+<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 28px;
+      fill: #ff0000;
+      animation: flicker 0.9s infinite;
+    }
+
+    @keyframes flicker {
+      0% { opacity: 1; }
+      50% { opacity: 0.2; }
+      100% { opacity: 1; }
+    }
+  </style>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">
+    ⚡💻 RED TEAM TERMINAL ACCESS: x0xr00t 💻⚡
+  </text>
+</svg>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZING...;RED+TEAM+TERMINAL+ACCESS;AUTHORIZED+USER:+x0xr00t" />
 </p>
@@ -64,6 +84,14 @@
 |               [**sl0ppy-ALPI**](https://github.com/x0xr00t/sl0ppy-ALPI)               | Privilege Escalation / Lateral Movement |   `STABLE`  |           ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-ALPI?style=social)          |
 |                 [**lnkhunter**](https://github.com/x0xr00t/sl0ppy-LNKHunter)                 |     Link Scanner / Threat Detection     |   `STABLE`  |            ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-LNKHunter?style=social)           |
 |                | [**sl0ppy‑defender‑evasion**](https://github.com/x0xr00t/sl0ppy-defender-evasion) | Bypass Method for defender  | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-defender-evasion?style=social) |  
+
+---
+
+# 🛡️ Deployed Defense Scanners & Handy Tools
+
+|                                      Module Name                                      |                  Vector                 |    Status   |                                                   Badge                                                  |
+| :-----------------------------------------------------------------------------------: | :-------------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------: |
+|   [**Automated UAC Bypass**](https://github.com/x0xr00t/sl0ppy-UEFIScan)   |  Windows UAC     / Privilege Escalation |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-UEFIScan)   |
 
 ---
 
