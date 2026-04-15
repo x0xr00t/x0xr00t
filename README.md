@@ -70,7 +70,7 @@
 
 |                                      Module Name                                      |                  Vector                 |    Status   |                                                   Badge                                                  |
 | :-----------------------------------------------------------------------------------: | :-------------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------: |
-|   [**Automated UAC Bypass**](https://github.com/x0xr00t/sl0ppy-UEFIScan)   |  Windows UAC     / Privilege Escalation |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-UEFIScan)   |
+|   [**Sl0ppy-UEFISCAN**](https://github.com/x0xr00t/sl0ppy-UEFIScan)   |    UEFISCAN   / Firmware scanner |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-UEFIScan)   |
 
 ---
 
