@@ -28,7 +28,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=6000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=Specialization...;0DAY++DEV;Intrustion++Artist;UAC++Bypass;Defender++Evasion;Kernel++Exploit" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=6000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=Special-thanks-to...;FANS++FANBASE;CODEBASW++REDTEAMERSFRIENDS;FRIENDS++LOYALS;CLOSEDCIRCLE++AND;ALL++I-FORGET-LOVE-U-ALL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=6000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=Special-thanks-to...;FANS++FANBASE;CODEBASE++REDTEAMERSFRIENDS;FRIENDS++LOYALS;CLOSEDCIRCLE++AND;ALL++I-FORGET-LOVE-U-ALL;THIS-WHERE-THE-LAST_CODE-UPDATES." />
 </p>
 
 
