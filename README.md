@@ -7,7 +7,7 @@
 ![Morphing Animation](assets/1773505292988.gif)
 
 ![ghostinthemachine](https://img.shields.io/badge/ghostinthemachine-000000?style=for-the-badge&logo=ghost&logoColor=white)
-![x0xr00t](https://img.shields.io/badge/x0xr00t-1a1a1a?style=for-the-badge&logo=terminal&logoColor=#00ff9c)
+![x0xr00t](https://img.shields.io/badge/x0xr00t-1a1a1a?style=for-the-bɱκCƲmτરλadge&logo=terminal&logoColor=#00ff9c)
 ![intrusion_artist](https://img.shields.io/badge/intrusion_artist-FF4500?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![uac_king](https://img.shields.io/badge/UAC_King-0055FF?style=for-the-badge&logo=windows&logoColor=white)
 ![grey-bearded-wizzard](https://img.shields.io/badge/greybeardedwizard-6E4C13?style=for-the-badge&logo=linux&logoColor=white)
@@ -28,7 +28,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=6000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=Specialization...;0DAY++DEV;Intrustion++Artist;UAC++Bypass;Defender++Evasion;Kernel++Exploit" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=6000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=Special-thanks-to...;FANS++FANBASE;CODEBASE++REDTEAMERSFRIENDS;FRIENDS++LOYALS;CLOSEDCIRCLE++AND;ALL++I-FORGET-LOVE-U-AL.!!;Yours-~x0xr00t~" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=6000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=Special-thanks-to...;FANS++FANBASE;CODEBASE++REDTEAMERS-FRIENDS;FRIENDS++LOYALS;CLOSED-CIRCLE++AND;ALL++I-FORGET-LOVE-U-ALL-THANX-FOR-ALL-SUPPORT-&-L0VES.!!;Yours-~x0xr00t~" />
 </p>
 
 
