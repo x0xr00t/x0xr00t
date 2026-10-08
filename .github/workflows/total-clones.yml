@@ -2,8 +2,11 @@ name: Total Git Clones Counter
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Draait elke dag om middernacht
-  workflow_dispatch: # Hiermee kun je hem direct handmatig starten
+    - cron: '0 0 * * *' # Draait elke nacht om 00:00 UTC
+  workflow_dispatch: # Handmatige triggerknop
+
+permissions:
+  contents: write # Cruciaal voor het terugschrijven van clone_data.json
 
 jobs:
   update-clones:
@@ -15,7 +18,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-node-version: '20'
+          node-version: '20' # Gefixt: geen dubbele 'node-' prefix meer
 
       - name: Fetch and Sum Clones
         env:
@@ -24,67 +27,119 @@ jobs:
         run: |
           node -e "
           const fs = require('fs');
+
+          async function githubApi(url) {
+            const res = await fetch(url, {
+              headers: {
+                'Authorization': \`Bearer \${process.env.GH_PAT}\`,
+                'Accept': 'application/vnd.github.v3+json',
+                'User-Agent': 'x0xr00t-Clone-Counter'
+              }
+            });
+            if (!res.ok) {
+              console.error(\`API Fout op \${url}: \${res.status} \${res.statusText}\`);
+              return null;
+            }
+            return await res.json();
+          }
+
           async function run() {
-            const headers = { 'Authorization': 'token ' + process.env.GH_PAT, 'Accept': 'application/vnd.github.v3+json' };
-            
-            // 1. Haal alle openbare repositories op van de gebruiker
+            if (!process.env.GH_PAT) {
+              console.error('Fout: GH_PAT secret ontbreekt of is leeg!');
+              process.exit(1);
+            }
+
             let repos = [];
             let page = 1;
-            while(true) {
-              const res = await fetch(\`https://github.com\${process.env.USERNAME}/repos?per_page=100&page=\${page}\`, { headers });
-              const data = await res.json();
-              if(!data || data.length === 0) break;
+            
+            // 1. Haal alle repositories op (handelt paginering netjes af voor 200+ repo's)
+            while (true) {
+              console.log(\`Repositories ophalen pagina \${page}...\`);
+              const data = await githubApi(\`https://github.com\${process.env.USERNAME}/repos?per_page=100&page=\${page}&type=owner\`);
+              if (!data || data.length === 0) break;
               repos = repos.concat(data);
+              if (data.length < 100) break;
               page++;
             }
-            
-            console.log(\`Totaal \${repos.length} repositories gevonden.\`);
-            
-            // 2. Loop door alle repo's en haal de clone counts van de afgelopen 14 dagen op
-            let currentTotalClones = 0;
+
+            console.log(\`Totaal \${repos.length} repositories geïdentificeerd voor analyse.\`);
+
+            // 2. Haal clone-statistieken op per repository
+            let liveTotalClones = 0;
+            let repoDataMap = {};
+
             for (const repo of repos) {
-              try {
-                const trafficRes = await fetch(\`https://api.github.com/repos/\${process.env.USERNAME}/\${repo.name}/traffic/clones\`, { headers });
-                const trafficData = await trafficRes.json();
-                if(trafficData.count) {
-                  currentTotalClones += trafficData.count;
-                }
-              } catch(e) {
-                console.error('Fout bij ophalen van ' + repo.name, e);
+              // Sla forks over om vervuiling te voorkomen indien gewenst (optioneel)
+              const traffic = await githubApi(\`https://github.com\${process.env.USERNAME}/\${repo.name}/traffic/clones\`);
+              if (traffic && traffic.count) {
+                liveTotalClones += traffic.count;
+                repoDataMap[repo.name] = traffic.count;
+                console.log(\`-> \${repo.name}: \${traffic.count} clones (afgelopen 14 dagen)\`);
               }
             }
-            
-            // 3. Lees de oude database (indien aanwezig) om de data cumulatief op te bouwen over de tijd
-            let historyTotal = 0;
+
+            // 3. Database synchronisatie voor permanente opslag buiten de 14-dagen window
+            let db = { historical_total: 0, last_seen_repo_counts: {} };
             if (fs.existsSync('clone_data.json')) {
-              const oldData = JSON.parse(fs.readFileSync('clone_data.json', 'utf8'));
-              historyTotal = oldData.historical_total || 0;
+              try {
+                const raw = fs.readFileSync('clone_data.json', 'utf8');
+                const parsed = JSON.parse(raw);
+                if (parsed.historical_total !== undefined) {
+                  db.historical_total = parsed.historical_total;
+                  db.last_seen_repo_counts = parsed.last_seen_repo_counts || {};
+                }
+              } catch (e) {
+                console.log('Bestaande clone_data.json was corrupt of leeg, we bouwen een nieuwe op.');
+              }
             }
-            
-            // Omdat GitHub's API de afgelopen 14 dagen telt, overschrijven we het totaal niet zomaar, 
-            // maar zorgen we dat we het historisch ophogen als de nieuwe actuele count groter wordt.
-            // Voor de allereerste keer starten we met de huidige actuele som van alle repo's.
-            let finalTotal = Math.max(currentTotalClones, historyTotal);
-            
-            // Sla de data op in een JSON bestand
+
+            // Delta-berekening: Vergelijk live data met de vorige run om ophogingen te detecteren
+            let deltaIncr = 0;
+            for (const repoName in repoDataMap) {
+              const currentLive = repoDataMap[repoName];
+              const previousLive = db.last_seen_repo_counts[repoName] || 0;
+              
+              if (currentLive > previousLive) {
+                deltaIncr += (currentLive - previousLive);
+              } else if (currentLive < previousLive) {
+                // GitHub counter is gereset (oude dagen zijn uit de 14-dagen window gevallen)
+                // Voeg de volledige nieuwe live waarde toe als extra progressie
+                deltaIncr += currentLive;
+              }
+            }
+
+            // Initialisatie-fallback: als dit de allereerste run is, neem het huidige live totaal
+            if (db.historical_total === 0) {
+              db.historical_total = liveTotalClones;
+            } else {
+              db.historical_total += deltaIncr;
+            }
+
+            db.last_seen_repo_counts = repoDataMap;
+
+            // 4. Genereer Shields.io compatibele JSON endpoint structuur
             const output = {
               schemaVersion: 1,
               label: 'total git clones',
-              message: String(finalTotal),
-              color: 'green',
-              historical_total: finalTotal
+              message: String(db.historical_total),
+              color: '00ff00', // Felgroen hacc-stijl
+              labelColor: '141414',
+              style: 'flat-square',
+              historical_total: db.historical_total,
+              last_seen_repo_counts: db.last_seen_repo_counts
             };
-            
+
             fs.writeFileSync('clone_data.json', JSON.stringify(output, null, 2));
-            console.log('Nieuw cumulatief totaal berekend:', finalTotal);
+            console.log(\`\n[SUCCESS] Nieuw cumulatief historisch totaal: \${db.historical_total}\`);
           }
-          run();
+
+          run().catch(err => { console.error(err); process.exit(1); });
           "
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name "Clone-Bot"
           git add clone_data.json
-          git commit -m "Update total git clones count" || exit 0
+          git commit -m "update: total git clones cumulative stats" || exit 0
           git push
