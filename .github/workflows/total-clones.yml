@@ -3,7 +3,7 @@ name: Total Git Clones Counter
 on:
   schedule:
     - cron: '0 0 * * *' # Elke nacht om 00:00 UTC
-  workflow_dispatch: # Handmatige startknop
+  workflow_dispatch: # Handmatige startknop in GitHub Actions UI
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ jobs:
 
       - name: Fetch Clones and Generate Exact SVG Style
         env:
-          GH_PAT: \${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}
           USERNAME: 'x0xr00t'
         run: |
           node -e "
@@ -31,7 +31,7 @@ jobs:
           async function githubApi(url) {
             const res = await fetch(url, {
               headers: {
-                'Authorization': \`Bearer \${process.env.GH_PAT}\`,
+                'Authorization': 'Bearer ' + process.env.GH_PAT,
                 'Accept': 'application/vnd.github.v3+json',
                 'User-Agent': 'x0xr00t-Clone-Counter'
               }
@@ -42,14 +42,14 @@ jobs:
 
           async function run() {
             if (!process.env.GH_PAT) {
-              console.error('Fout: GH_PAT secret ontbreekt!');
+              console.error('Fout: GH_PAT secret ontbreekt of is leeg!');
               process.exit(1);
             }
 
             let repos = [];
             let page = 1;
             while (true) {
-              const data = await githubApi(\`https://github.com\${process.env.USERNAME}/repos?per_page=100&page=\${page}&type=owner\`);
+              const data = await githubApi('https://github.com' + process.env.USERNAME + '/repos?per_page=100&page=' + page + '&type=owner');
               if (!data || data.length === 0) break;
               repos = repos.concat(data);
               if (data.length < 100) break;
@@ -60,7 +60,7 @@ jobs:
             let repoDataMap = {};
 
             for (const repo of repos) {
-              const traffic = await githubApi(\`https://github.com\${process.env.USERNAME}/\${repo.name}/traffic/clones\`);
+              const traffic = await githubApi('https://github.com' + process.env.USERNAME + '/' + repo.name + '/traffic/clones');
               if (traffic && traffic.count) {
                 liveTotalClones += traffic.count;
                 repoDataMap[repo.name] = traffic.count;
@@ -95,32 +95,9 @@ jobs:
             db.last_seen_repo_counts = repoDataMap;
             fs.writeFileSync('clone_data.json', JSON.stringify(db, null, 2));
 
-            // Formatteer het getal met komma's (bijv. 1,070 net zoals de afbeelding)
             const formattedCount = Number(db.historical_total).toLocaleString('en-US');
 
-            // EXACTE REPRODUCTIE VAN DE KOMAREV SVG TEMPLATE (Inclusief verlopen en slagschaduw)
-            const svgContent = \`<svg xmlns="http://w3.org" width="280" height="40" viewBox="0 0 280 40">
-  <linearGradient id="b" x2="0" y2="100%">
-    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-    <stop offset="1" stop-opacity=".1"/>
-  </linearGradient>
-  <clipPath id="a">
-    <rect width="280" height="40" rx="10" fill="#fff"/>
-  </clipPath>
-  <g clip-path="url(#a)">
-    <rect width="180" height="40" fill="#555"/>
-    <rect x="180" width="100" height="40" fill="#97ca00"/>
-    <rect width="280" height="40" fill="url(#b)"/>
-  </g>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="22">
-    <!-- Schaduw Effect voor Linker Text -->
-    <text x="91" y="27" fill="#010101" fill-opacity=".3">Git clones</text>
-    <text x="91" y="25">Git clones</text>
-    <!-- Schaduw Effect voor Rechter Text (Het Aantal) -->
-    <text x="231" y="27" fill="#010101" fill-opacity=".3">\${formattedCount}</text>
-    <text x="231" y="25">\${formattedCount}</text>
-  </g>
-</svg>\`;
+            const svgContent = '<svg xmlns=\"http://w3.org\" width=\"280\" height=\"40\" viewBox=\"0 0 280 40\"><linearGradient id=\"b\" x2=\"0\" y2=\"100%\"><stop offset=\"0\" stop-color=\"#bbb\" stop-opacity=\".1\"/><stop offset=\"1\" stop-opacity=\".1\"/></linearGradient><clipPath id=\"a\"><rect width=\"280\" height=\"40\" rx=\"10\" fill=\"#fff\"/></clipPath><g clip-path=\"url(#a)\"><rect width=\"180\" height=\"40\" fill=\"#555\"/><rect x=\"180\" width=\"100\" height=\"40\" fill=\"#97ca00\"/><rect width=\"280\" height=\"40\" fill=\"url(#b)\"/></g><g fill=\"#fff\" text-anchor=\"middle\" font-family=\"Verdana,Geneva,DejaVu Sans,sans-serif\" font-size=\"22\"><text x=\"91\" y=\"27\" fill=\"#010101\" fill-opacity=\".3\">Git clones</text><text x=\"91\" y=\"25\">Git clones</text><text x=\"231\" y=\"27\" fill=\"#010101\" fill-opacity=\".3\">' + formattedCount + '</text><text x=\"231\" y=\"25\">' + formattedCount + '</text></g></svg>';
 
             fs.writeFileSync('total_clones.svg', svgContent);
             console.log('Badge succesvol gegenereerd met totaal:', formattedCount);
