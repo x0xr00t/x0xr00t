@@ -40,6 +40,7 @@
 [![Image of Repositories Views Counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
 
 [![.github/workflows/total-clones.yml](https://github.com/x0xr00t/x0xr00t/actions/workflows/total-clones.yml/badge.svg)](https://github.com/x0xr00t/x0xr00t/actions/workflows/total-clones.yml)
+
 ---
 
 ![Hacker Banner 2](https://ishan-rest.vercel.app/svg/banner/hacker2/x0xr00t)
