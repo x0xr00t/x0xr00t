@@ -2,11 +2,11 @@ name: Total Git Clones Counter
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Draait elke nacht om 00:00 UTC
-  workflow_dispatch: # Handmatige triggerknop
+    - cron: '0 0 * * *' # Elke nacht om 00:00 UTC
+  workflow_dispatch: # Handmatige startknop
 
 permissions:
-  contents: write # Cruciaal voor het terugschrijven van clone_data.json
+  contents: write
 
 jobs:
   update-clones:
@@ -18,9 +18,9 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20' # Gefixt: geen dubbele 'node-' prefix meer
+          node-version: '20'
 
-      - name: Fetch and Sum Clones
+      - name: Fetch Clones and Generate Exact SVG Style
         env:
           GH_PAT: \${{ secrets.GH_PAT }}
           USERNAME: 'x0xr00t'
@@ -36,25 +36,19 @@ jobs:
                 'User-Agent': 'x0xr00t-Clone-Counter'
               }
             });
-            if (!res.ok) {
-              console.error(\`API Fout op \${url}: \${res.status} \${res.statusText}\`);
-              return null;
-            }
+            if (!res.ok) return null;
             return await res.json();
           }
 
           async function run() {
             if (!process.env.GH_PAT) {
-              console.error('Fout: GH_PAT secret ontbreekt of is leeg!');
+              console.error('Fout: GH_PAT secret ontbreekt!');
               process.exit(1);
             }
 
             let repos = [];
             let page = 1;
-            
-            // 1. Haal alle repositories op (handelt paginering netjes af voor 200+ repo's)
             while (true) {
-              console.log(\`Repositories ophalen pagina \${page}...\`);
               const data = await githubApi(\`https://github.com\${process.env.USERNAME}/repos?per_page=100&page=\${page}&type=owner\`);
               if (!data || data.length === 0) break;
               repos = repos.concat(data);
@@ -62,75 +56,74 @@ jobs:
               page++;
             }
 
-            console.log(\`Totaal \${repos.length} repositories geïdentificeerd voor analyse.\`);
-
-            // 2. Haal clone-statistieken op per repository
             let liveTotalClones = 0;
             let repoDataMap = {};
 
             for (const repo of repos) {
-              // Sla forks over om vervuiling te voorkomen indien gewenst (optioneel)
               const traffic = await githubApi(\`https://github.com\${process.env.USERNAME}/\${repo.name}/traffic/clones\`);
               if (traffic && traffic.count) {
                 liveTotalClones += traffic.count;
                 repoDataMap[repo.name] = traffic.count;
-                console.log(\`-> \${repo.name}: \${traffic.count} clones (afgelopen 14 dagen)\`);
               }
             }
 
-            // 3. Database synchronisatie voor permanente opslag buiten de 14-dagen window
             let db = { historical_total: 0, last_seen_repo_counts: {} };
             if (fs.existsSync('clone_data.json')) {
               try {
-                const raw = fs.readFileSync('clone_data.json', 'utf8');
-                const parsed = JSON.parse(raw);
-                if (parsed.historical_total !== undefined) {
-                  db.historical_total = parsed.historical_total;
-                  db.last_seen_repo_counts = parsed.last_seen_repo_counts || {};
-                }
-              } catch (e) {
-                console.log('Bestaande clone_data.json was corrupt of leeg, we bouwen een nieuwe op.');
-              }
+                db = JSON.parse(fs.readFileSync('clone_data.json', 'utf8'));
+              } catch (e) {}
             }
 
-            // Delta-berekening: Vergelijk live data met de vorige run om ophogingen te detecteren
             let deltaIncr = 0;
             for (const repoName in repoDataMap) {
               const currentLive = repoDataMap[repoName];
-              const previousLive = db.last_seen_repo_counts[repoName] || 0;
+              const previousLive = (db.last_seen_repo_counts || {})[repoName] || 0;
               
               if (currentLive > previousLive) {
                 deltaIncr += (currentLive - previousLive);
               } else if (currentLive < previousLive) {
-                // GitHub counter is gereset (oude dagen zijn uit de 14-dagen window gevallen)
-                // Voeg de volledige nieuwe live waarde toe als extra progressie
                 deltaIncr += currentLive;
               }
             }
 
-            // Initialisatie-fallback: als dit de allereerste run is, neem het huidige live totaal
-            if (db.historical_total === 0) {
+            if (!db.historical_total || db.historical_total === 0) {
               db.historical_total = liveTotalClones;
             } else {
               db.historical_total += deltaIncr;
             }
 
             db.last_seen_repo_counts = repoDataMap;
+            fs.writeFileSync('clone_data.json', JSON.stringify(db, null, 2));
 
-            // 4. Genereer Shields.io compatibele JSON endpoint structuur
-            const output = {
-              schemaVersion: 1,
-              label: 'total git clones',
-              message: String(db.historical_total),
-              color: '00ff00', // Felgroen hacc-stijl
-              labelColor: '141414',
-              style: 'flat-square',
-              historical_total: db.historical_total,
-              last_seen_repo_counts: db.last_seen_repo_counts
-            };
+            // Formatteer het getal met komma's (bijv. 1,070 net zoals de afbeelding)
+            const formattedCount = Number(db.historical_total).toLocaleString('en-US');
 
-            fs.writeFileSync('clone_data.json', JSON.stringify(output, null, 2));
-            console.log(\`\n[SUCCESS] Nieuw cumulatief historisch totaal: \${db.historical_total}\`);
+            // EXACTE REPRODUCTIE VAN DE KOMAREV SVG TEMPLATE (Inclusief verlopen en slagschaduw)
+            const svgContent = \`<svg xmlns="http://w3.org" width="280" height="40" viewBox="0 0 280 40">
+  <linearGradient id="b" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="a">
+    <rect width="280" height="40" rx="10" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#a)">
+    <rect width="180" height="40" fill="#555"/>
+    <rect x="180" width="100" height="40" fill="#97ca00"/>
+    <rect width="280" height="40" fill="url(#b)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="22">
+    <!-- Schaduw Effect voor Linker Text -->
+    <text x="91" y="27" fill="#010101" fill-opacity=".3">Git clones</text>
+    <text x="91" y="25">Git clones</text>
+    <!-- Schaduw Effect voor Rechter Text (Het Aantal) -->
+    <text x="231" y="27" fill="#010101" fill-opacity=".3">\${formattedCount}</text>
+    <text x="231" y="25">\${formattedCount}</text>
+  </g>
+</svg>\`;
+
+            fs.writeFileSync('total_clones.svg', svgContent);
+            console.log('Badge succesvol gegenereerd met totaal:', formattedCount);
           }
 
           run().catch(err => { console.error(err); process.exit(1); });
@@ -140,6 +133,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Clone-Bot"
-          git add clone_data.json
-          git commit -m "update: total git clones cumulative stats" || exit 0
+          git add clone_data.json total_clones.svg
+          git commit -m "update: sync total git clones badge" || exit 0
           git push
