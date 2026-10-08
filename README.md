@@ -39,9 +39,6 @@
 ![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
 [![Image of Repositories Views Counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
 
-![](https://komarev.com)
-[![Total Git Clones](https://githubusercontent.com)](https://github.com)
-
 ---
 
 ![Hacker Banner 2](https://ishan-rest.vercel.app/svg/banner/hacker2/x0xr00t)
