@@ -65,6 +65,7 @@
 |               [**sl0ppy-ALPI**](https://github.com/x0xr00t/sl0ppy-ALPI)               | Privilege Escalation / Lateral Movement |   `STABLE`  |           ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-ALPI?style=social)          |
 |                 [**lnkhunter**](https://github.com/x0xr00t/sl0ppy-LNKHunter)                 |     Link Scanner / Threat Detection     |   `STABLE`  |            ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-LNKHunter?style=social)           |
 |                | [**sl0ppy‑defender‑evasion**](https://github.com/x0xr00t/sl0ppy-defender-evasion) | Bypass Method for defender  | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-defender-evasion?style=social) |  
+|                | [**sl0ppy‑goshelly**](https://github.com/x0xr00t/sl0ppy-goshelly) | Go shell   | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-goshelly?style=social) |  
 
 ---
 
