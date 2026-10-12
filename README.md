@@ -56,7 +56,7 @@
 
 |                                      Module Name                                      |                  Vector                 |    Status   |                                                   Badge                                                  |
 | :-----------------------------------------------------------------------------------: | :-------------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------: |
-|   [**Automated UAC Bypass**](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass)   |  Windows UAC     / Privilege Escalation |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/Automated-MUlti-UAC-Bypass)   |
+|   [**Automated UAC Bypass**](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass)   |  Windows UAC     / Privilege Escalation |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/Automated-MUlti-UAC-Bypass?style=social)   |
 | [**sl0ppy-PrivescTaskCreator**](https://github.com/x0xr00t/sl0ppy-PrivescTaskCreator) |  Task Scheduling / Privilege Escalation |   `STABLE`  |    ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-PrivescTaskCreator?style=social)   |
 |               [**sl0ppy-OPPG**](https://github.com/x0xr00t/sl0ppy-oppg)               |   Payload Generator / Custom Exploits   |   `ACTIVE`  |           ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-oppg?style=social)          |
 |              [**Omni-Pollute**](https://github.com/x0xr00t/SilentReject-OmniPollute)              |    Persistent Multi-Vector Infection    |   `ACTIVE`  |          ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/SilentReject-OmniPollute?style=social)          |
@@ -64,8 +64,8 @@
 |                [**SVGScan**](https://github.com/x0xr00t/sl0ppy-SVGScan)               |       SVG Recon / Exploit Scanner       |   `STABLE`  |         ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-SVGScan?style=social)         |
 |               [**sl0ppy-ALPI**](https://github.com/x0xr00t/sl0ppy-ALPI)               | Privilege Escalation / Lateral Movement |   `STABLE`  |           ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-ALPI?style=social)          |
 |                 [**lnkhunter**](https://github.com/x0xr00t/sl0ppy-LNKHunter)                 |     Link Scanner / Threat Detection     |   `STABLE`  |            ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-LNKHunter?style=social)           |
-|                | [**sl0ppy‑defender‑evasion**](https://github.com/x0xr00t/sl0ppy-defender-evasion) | Bypass Method for defender  | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-defender-evasion?style=social) |  
-|                | [**sl0ppy‑goshelly**](https://github.com/x0xr00t/sl0ppy-goshelly) | Go shell   | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-goshelly?style=social) |  
+| [**sl0ppy-defender-evasion**](https://github.com/x0xr00t/sl0ppy-defender-evasion) | Bypass Method for defender | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-defender-evasion?style=social) |
+| [**sl0ppy-goshelly**](https://github.com/x0xr00t/sl0ppy-goshelly) | Go shell | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-goshelly?style=social) |
 
 ---
 
@@ -73,9 +73,8 @@
 
 |                                      Module Name                                      |                  Vector                 |    Status   |                                                   Badge                                                  |
 | :-----------------------------------------------------------------------------------: | :-------------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------: |
-|   [**Sl0ppy-UEFISCAN**](https://github.com/x0xr00t/sl0ppy-UEFIScan)   |    UEFISCAN   / Firmware scanner |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-UEFIScan)   |
-|   [**Sl0ppy-SuriDash**](https://github.com/x0xr00t/sl0ppy-SuriDash)   |    SuriDash / IPS / IDS Dashboard |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-SuriDash)   |
-
+|   [**Sl0ppy-UEFISCAN**](https://github.com/x0xr00t/sl0ppy-UEFIScan)   |    UEFISCAN   / Firmware scanner |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-UEFIScan?style=social)   |
+|   [**Sl0ppy-SuriDash**](https://github.com/x0xr00t/sl0ppy-SuriDash)   |    SuriDash / IPS / IDS Dashboard |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-SuriDash?style=social)   |
 ---
 
 ### 🖥️ Platforms / OS:
