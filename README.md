@@ -66,6 +66,7 @@
 |                 [**lnkhunter**](https://github.com/x0xr00t/sl0ppy-LNKHunter)                 |     Link Scanner / Threat Detection     |   `STABLE`  |            ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-LNKHunter?style=social)           |
 | [**sl0ppy-defender-evasion**](https://github.com/x0xr00t/sl0ppy-defender-evasion) | Bypass Method for defender | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-defender-evasion?style=social) |
 | [**sl0ppy-goshelly**](https://github.com/x0xr00t/sl0ppy-goshelly) | Go shell | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-goshelly?style=social) |
+| [**sl0ppy-php2shellscan**](https://github.com/x0xr00t/sl0ppy-php2shellscan) | Go shell | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-php2shellscan?style=social) |
 
 ---
 
