@@ -52,11 +52,13 @@
 ![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/BUILDS)
 
 ---
-# ☣️ Deployed Exploits & Tools
+# ☣️ Sl0ppy Deployed Exploits & Tools
 
 |                                      Module Name                                      |                  Vector                 |    Status   |                                                   Badge                                                  |
 | :-----------------------------------------------------------------------------------: | :-------------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------: |
-|   [**Automated UAC Bypass**](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass)   |  Windows UAC     / Privilege Escalation |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/Automated-MUlti-UAC-Bypass?style=social)   |
+
+| [**Automated UAC Bypass**](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) | ![Windows](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white) ![Language](https://img.shields.io/github/languages/top/x0xr00t/Automated-MUlti-UAC-Bypass?style=flat&logo=github) ![Security](https://img.shields.io/badge/Category-UAC%20%2F%20Privilege%20Escalation-red) ![Status](https://img.shields.io/badge/Status-STABLE-brightgreen) ![Stars](https://img.shields.io/github/stars/x0xr00t/Automated-MUlti-UAC-Bypass?style=social) |
+
 | [**sl0ppy-PrivescTaskCreator**](https://github.com/x0xr00t/sl0ppy-PrivescTaskCreator) |  Task Scheduling / Privilege Escalation |   `STABLE`  |    ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-PrivescTaskCreator?style=social)   |
 |               [**sl0ppy-OPPG**](https://github.com/x0xr00t/sl0ppy-oppg)               |   Payload Generator / Custom Exploits   |   `ACTIVE`  |           ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-oppg?style=social)          |
 |              [**Omni-Pollute**](https://github.com/x0xr00t/SilentReject-OmniPollute)              |    Persistent Multi-Vector Infection    |   `ACTIVE`  |          ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/SilentReject-OmniPollute?style=social)          |
@@ -66,12 +68,18 @@
 |                 [**lnkhunter**](https://github.com/x0xr00t/sl0ppy-LNKHunter)                 |     Link Scanner / Threat Detection     |   `STABLE`  |            ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-LNKHunter?style=social)           |
 | [**sl0ppy-defender-evasion**](https://github.com/x0xr00t/sl0ppy-defender-evasion) | Bypass Method for defender | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-defender-evasion?style=social) |
 | [**sl0ppy-goshelly**](https://github.com/x0xr00t/sl0ppy-goshelly) | Go shell | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-goshelly?style=social) |
-| [**sl0ppy-php2shellscan**](https://github.com/x0xr00t/sl0ppy-php2shellscan) | php2shellscan Metasploit | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-php2shellscan?style=social) |
-| [**sl0ppy-riftscan-CVE-2026-42945**](https://github.com/x0xr00t/sl0ppy-riftscan-CVE-2026-42945) | sl0ppy-riftscan-CVE-2026-42945 Metasploit | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-riftscan-CVE-2026-42945?style=social) |
 
 ---
 
-# 🛡️ Deployed Defense Scanners & Handy Tools
+# 🇲 Sl0ppy Deployed Metasploit-Framework-Modules 
+
+| [**sl0ppy-php2shellscan**](https://github.com/x0xr00t/sl0ppy-php2shellscan) | php2shellscan Metasploit | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-php2shellscan?style=social) |
+| [**sl0ppy-riftscan-CVE-2026-42945**](https://github.com/x0xr00t/sl0ppy-riftscan-CVE-2026-42945) | sl0ppy-riftscan-CVE-2026-42945 Metasploit | `ACTIVE` | ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-riftscan-CVE-2026-42945?style=social) |
+
+
+---
+
+# 🛡️ Sl0py Deployed Defense Scanners & Handy Tools
 
 |                                      Module Name                                      |                  Vector                 |    Status   |                                                   Badge                                                  |
 | :-----------------------------------------------------------------------------------: | :-------------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------: |
