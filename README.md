@@ -52,6 +52,7 @@
 ![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/BUILDS)
 
 ---
+
 # ☣️ Sl0ppy Deployed Exploits & Tools
 
 |                                      Module Name                                      |                  Vector                 |    Status   |                                                   Badge                                                  |
