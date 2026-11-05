@@ -54,9 +54,9 @@
 ---
 # ☣️ Sl0ppy Deployed Exploits & Tools
 
-|                                      Module Name                                      |                  Vector                 |    Status   |                                                   Badge                                                  |
-| :-----------------------------------------------------------------------------------: | :-------------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------: |
 
+| Module Name | Vector | Status | Badge |
+| :---: | :---: | :---: | :---: |
 | [**Automated UAC Bypass**](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) | ![Windows](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white) ![Language](https://img.shields.io/github/languages/top/x0xr00t/Automated-MUlti-UAC-Bypass?style=flat&logo=github) ![Security](https://img.shields.io/badge/Category-UAC%20%2F%20Privilege%20Escalation-red) ![Status](https://img.shields.io/badge/Status-STABLE-brightgreen) ![Stars](https://img.shields.io/github/stars/x0xr00t/Automated-MUlti-UAC-Bypass?style=social) |
 
 | [**sl0ppy-PrivescTaskCreator**](https://github.com/x0xr00t/sl0ppy-PrivescTaskCreator) |  Task Scheduling / Privilege Escalation |   `STABLE`  |    ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-PrivescTaskCreator?style=social)   |
