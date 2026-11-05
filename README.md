@@ -84,6 +84,7 @@
 | :-----------------------------------------------------------------------------------: | :-------------------------------------: | :---------: | :------------------------------------------------------------------------------------------------------: |
 |   [**Sl0ppy-UEFISCAN**](https://github.com/x0xr00t/sl0ppy-UEFIScan)   |    UEFISCAN   / Firmware scanner |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-UEFIScan?style=social)   |
 |   [**Sl0ppy-SuriDash**](https://github.com/x0xr00t/sl0ppy-SuriDash)   |    SuriDash / IPS / IDS Dashboard |   `STABLE`  |   ![GitHub stars](https://img.shields.io/github/stars/x0xr00t/sl0ppy-SuriDash?style=social)   |
+
 ---
 
 ### 🖥️ Platforms / OS:
