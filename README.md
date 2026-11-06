@@ -55,14 +55,8 @@
 ![Repository Contributors](https://img.shields.io/github/contributors/x0xr00t/x0xr00t?style=flat&color=blue&label=Contributors)
 ![Repository Commits](https://img.shields.io/github/commits-since/x0xr00t/x0xr00t/latest?style=flat&color=blue&label=Commits+Since+Release)
 
-<!-- RELEASE COUNTERS -->
-![Latest Release](https://img.shields.io/github/v/release/x0xr00t/x0xr00t?style=flat&color=blue&label=Latest+Release)
-![Release Downloads](https://img.shields.io/github/downloads/x0xr00t/x0xr00t/total?style=flat&color=blue&label=Total+Downloads)
-![Latest Release Downloads](https://img.shields.io/github/downloads/x0xr00t/x0xr00t/latest/total?style=flat&color=blue&label=Latest+Downloads)
-
 <!-- REPOSITORY SIZE COUNTERS -->
 ![Repository Size](https://img.shields.io/github/repo-size/x0xr00t/x0xr00t?style=flat&color=blue&label=Repository+Size)
-![Source Lines](https://img.shields.io/tokei/lines/github/x0xr00t/x0xr00t?style=flat&color=blue&label=Source+Lines)
 ![Code Size](https://img.shields.io/github/languages/code-size/x0xr00t/x0xr00t?style=flat&color=blue&label=Code+Size)
 ![Languages](https://img.shields.io/github/languages/count/x0xr00t/x0xr00t?style=flat&color=blue&label=Languages)
 
