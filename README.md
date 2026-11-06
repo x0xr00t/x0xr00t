@@ -35,29 +35,25 @@
 
 ---
 
-## 📊 x0xr00t's Stats
 
-![Profile Visitors](https://komarev.com/ghpvc/?username=x0xr00t&style=flat&color=blue&label=Profile+Visitors)
-![Repository Views](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)
+<!-- x0xr00t PROFILE STATISTICS -->
 
-![All Repositories Code Frequency](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&query=%24.total_changes&label=All+Repos+Code+Changes&color=blue&style=flat)
-
-![Repository Stars](https://img.shields.io/github/stars/x0xr00t?style=flat&color=blue&label=Stars)
+![Profile Visitors](https://komarev.com/ghpvc/?username=x0xr00t&color=blue&style=flat&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/x0xr00t?style=flat&color=blue&label=Followers)
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&style=flat&color=blue&label=Repositories)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&color=blue&style=flat&label=Repositories)
 
-### 💻 Commit Activity
+<!-- REPOSITORY ACTIVITY -->
 
-![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t/x0xr00t?style=flat&color=blue&label=Commits+This+Week)
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t/x0xr00t?style=flat&color=blue&label=Commits+This+Month)
-![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Commits+This+Year)
+![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t/x0xr00t?style=flat&color=blue&label=Weekly+Commits)
+![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t/x0xr00t?style=flat&color=blue&label=Monthly+Commits)
+![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Yearly+Commits)
 
+<!-- ALL REPOSITORY STATISTICS -->
+<!-- Requires a working GitHub Actions statistics collector -->
 
-![Lines Added](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&query=%24.total_additions&label=Lines+Added&color=blue&style=flat)
+![Total Git Clones](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2F_gh_traffic_stats%2F.github%2Fbadges%2Fclones.json&style=flat)
 
-![Lines Deleted](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&query=%24.total_deletions&label=Lines+Deleted&color=blue&style=flat)
-
-![Repositories Scanned](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&query=%24.repositories_scanned&label=Repos+Scanned&color=blue&style=flat)
+![All Repo Code Changes](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&style=flat)
 
 ---
 
