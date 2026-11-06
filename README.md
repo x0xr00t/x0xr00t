@@ -35,9 +35,15 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
-[![Image of Repositories Views Counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
-[![Total Code Edits](https://shields.io)](https://github.com/x0xr00t)
+
+![Profile Visitors](https://komarev.com/ghpvc/?username=x0xr00t&color=00ff66&style=for-the-badge&label=PROFILE+VISITORS)
+
+![Repository Views](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)
+
+![GitHub Followers](https://img.shields.io/github/followers/x0xr00t?style=for-the-badge&color=00ff66&label=FOLLOWERS)
+
+![GitHub Stars](https://img.shields.io/github/stars/x0xr00t?style=for-the-badge&color=00ff66&label=TOTAL+STARS)
+
 
 
 
