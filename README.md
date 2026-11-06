@@ -39,7 +39,9 @@
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=x0xr00t&style=flat&color=blue&label=Profile+Visitors)
 ![Repository Views](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)
-![Git Clones](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2F_gh_traffic_stats%2F.github%2Fbadges%2Fclones.json&style=flat)
+
+![All Repositories Code Frequency](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&query=%24.total_changes&label=All+Repos+Code+Changes&color=blue&style=flat)
+
 ![Repository Stars](https://img.shields.io/github/stars/x0xr00t?style=flat&color=blue&label=Stars)
 ![Followers](https://img.shields.io/github/followers/x0xr00t?style=flat&color=blue&label=Followers)
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&style=flat&color=blue&label=Repositories)
