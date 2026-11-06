@@ -36,24 +36,15 @@
 ---
 
 
-<!-- x0xr00t PROFILE STATISTICS -->
-
 ![Profile Visitors](https://komarev.com/ghpvc/?username=x0xr00t&color=blue&style=flat&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/x0xr00t?style=flat&color=blue&label=Followers)
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&color=blue&style=flat&label=Repositories)
-
-<!-- REPOSITORY ACTIVITY -->
-
+![Repository Views](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)
+![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Yearly+Commits)
 ![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t/x0xr00t?style=flat&color=blue&label=Weekly+Commits)
 ![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t/x0xr00t?style=flat&color=blue&label=Monthly+Commits)
-![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Yearly+Commits)
+![Followers](https://img.shields.io/github/followers/x0xr00t?style=flat&color=blue&label=Followers)
+![Stars](https://img.shields.io/github/stars/x0xr00t?style=flat&color=blue&label=Total+Stars)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&label=Repositories&color=blue&style=flat)
 
-<!-- ALL REPOSITORY STATISTICS -->
-<!-- Requires a working GitHub Actions statistics collector -->
-
-![Total Git Clones](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2F_gh_traffic_stats%2F.github%2Fbadges%2Fclones.json&style=flat)
-
-![All Repo Code Changes](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&style=flat)
 
 ---
 
