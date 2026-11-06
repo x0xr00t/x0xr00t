@@ -36,11 +36,12 @@
 ---
 
 
+
 ![Profile Visitors](https://komarev.com/ghpvc/?username=x0xr00t&color=blue&style=flat&label=Profile+Views)
 ![Repository Views](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)
-![Total Commits](https://img.shields.io/github/commit-activity/t/x0xr00t?style=flat&color=blue&label=Total+Commits)
-![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t?style=flat&color=blue&label=Commits+This+Week)
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t?style=flat&color=blue&label=Commits+This+Month)
+![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Yearly+Commits)
+![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t/x0xr00t?style=flat&color=blue&label=Weekly+Commits)
+![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t/x0xr00t?style=flat&color=blue&label=Monthly+Commits)
 ![Followers](https://img.shields.io/github/followers/x0xr00t?style=flat&color=blue&label=Followers)
 ![Stars](https://img.shields.io/github/stars/x0xr00t?style=flat&color=blue&label=Total+Stars)
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&label=Repositories&color=blue&style=flat)
