@@ -35,19 +35,20 @@
 
 ---
 
+## 📊 x0xr00t's Stats
 
-
-![Profile Visitors](https://komarev.com/ghpvc/?username=x0xr00t&color=blue&style=flat&label=Profile+Views)
+![Profile Visitors](https://komarev.com/ghpvc/?username=x0xr00t&style=flat&color=blue&label=Profile+Visitors)
 ![Repository Views](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)
-![Total Git Clones](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2F_gh_traffic_stats%2F.github%2Fbadges%2Fclones.json&style=flat)
+![Git Clones](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2F_gh_traffic_stats%2F.github%2Fbadges%2Fclones.json&style=flat)
+![Repository Stars](https://img.shields.io/github/stars/x0xr00t?style=flat&color=blue&label=Stars)
 ![Followers](https://img.shields.io/github/followers/x0xr00t?style=flat&color=blue&label=Followers)
-![Stars](https://img.shields.io/github/stars/x0xr00t?style=flat&color=blue&label=Total+Stars)
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&label=Repositories&color=blue&style=flat)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&style=flat&color=blue&label=Repositories)
 
-![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Yearly+Commits)
-![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t/x0xr00t?style=flat&color=blue&label=Weekly+Commits)
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t/x0xr00t?style=flat&color=blue&label=Monthly+Commits)
+### 💻 Commit Activity
 
+![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t/x0xr00t?style=flat&color=blue&label=Commits+This+Week)
+![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t/x0xr00t?style=flat&color=blue&label=Commits+This+Month)
+![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Commits+This+Year)
 
 
 ---
