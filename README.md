@@ -53,6 +53,12 @@
 ![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Commits+This+Year)
 
 
+![Lines Added](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&query=%24.total_additions&label=Lines+Added&color=blue&style=flat)
+
+![Lines Deleted](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&query=%24.total_deletions&label=Lines+Deleted&color=blue&style=flat)
+
+![Repositories Scanned](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&query=%24.repositories_scanned&label=Repos+Scanned&color=blue&style=flat)
+
 ---
 
 ![Hacker Banner 2](https://ishan-rest.vercel.app/svg/banner/hacker2/x0xr00t)
