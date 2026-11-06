@@ -45,6 +45,16 @@
 ![GitHub Stars](https://img.shields.io/github/stars/x0xr00t?style=for-the-badge&color=00ff66&label=TOTAL+STARS)
 
 
+![Total Commits](https://img.shields.io/github/commit-activity/t/x0xr00t?style=for-the-badge&color=00ff66&label=TOTAL+COMMITS)
+
+![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t?style=for-the-badge&color=00ff66&label=COMMITS+THIS+WEEK)
+
+![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t?style=for-the-badge&color=00ff66&label=COMMITS+THIS+MONTH)
+
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&label=PUBLIC+REPOSITORIES&style=for-the-badge&color=00ff66)
+
+
+
 
 
 
