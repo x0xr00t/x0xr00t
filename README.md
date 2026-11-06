@@ -44,30 +44,31 @@
 ![Followers](https://img.shields.io/github/followers/x0xr00t?style=flat&color=blue&label=Followers)
 ![Stars](https://img.shields.io/github/stars/x0xr00t?style=flat&color=blue&label=Total+Stars)
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&label=Repositories&color=blue&style=flat)
-<!-- COMMIT FREQUENCY -->
+
+<!-- COMMIT FREQUENCY: x0xr00t REPOSITORY -->
 ![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Yearly+Commits)
 ![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t/x0xr00t?style=flat&color=blue&label=Monthly+Commits)
 ![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t/x0xr00t?style=flat&color=blue&label=Weekly+Commits)
 
-<!-- CODE FREQUENCY - REQUIRES GENERATED JSON -->
-![Total Code Changes](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&style=flat)
+<!-- ALL-REPOSITORY CODE FREQUENCY -->
+![Total Code Changes](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&style=flat&color=blue)
 
-![Total Lines Added](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fadditions.json&style=flat)
+![Total Lines Added](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fadditions.json&style=flat&color=blue)
 
-![Total Lines Deleted](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fdeletions.json&style=flat)
+![Total Lines Deleted](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fdeletions.json&style=flat&color=blue)
 
-![Code Changes Today](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fdaily-changes.json&style=flat)
+![Code Changes Today](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fdaily-changes.json&style=flat&color=blue)
 
-![Code Changes This Week](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fweekly-changes.json&style=flat)
+![Code Changes This Week](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fweekly-changes.json&style=flat&color=blue)
 
-![Code Changes This Month](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fmonthly-changes.json&style=flat)
+![Code Changes This Month](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fmonthly-changes.json&style=flat&color=blue)
 
-<!-- REPOSITORY STATISTICS - REQUIRES GENERATED JSON -->
-![Total Git Clones](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fclones.json&style=flat)
+<!-- ALL-REPOSITORY STATISTICS -->
+![Total Git Clones](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fclones.json&style=flat&color=blue)
 
-![Total Code Commits](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Ftotal-commits.json&style=flat)
+![Total Code Commits](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Ftotal-commits.json&style=flat&color=blue)
 
-![Repositories Scanned](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Frepositories.json&style=flat)
+![Repositories Scanned](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Frepositories.json&style=flat&color=blue)
 
 ---
 
