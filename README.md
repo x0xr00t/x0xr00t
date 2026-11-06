@@ -36,39 +36,32 @@
 ---
 
 
-![Profile Visitors](https://komarev.com/ghpvc/?username=x0xr00t&color=blue&style=flat&label=Profile+Views)
-![Repository Views](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)
-![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Yearly+Commits)
-![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t/x0xr00t?style=flat&color=blue&label=Weekly+Commits)
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t/x0xr00t?style=flat&color=blue&label=Monthly+Commits)
-![Followers](https://img.shields.io/github/followers/x0xr00t?style=flat&color=blue&label=Followers)
-![Stars](https://img.shields.io/github/stars/x0xr00t?style=flat&color=blue&label=Total+Stars)
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&label=Repositories&color=blue&style=flat)
-
-<!-- COMMIT FREQUENCY: x0xr00t REPOSITORY -->
-![Yearly Commits](https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Yearly+Commits)
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/x0xr00t/x0xr00t?style=flat&color=blue&label=Monthly+Commits)
-![Weekly Commits](https://img.shields.io/github/commit-activity/w/x0xr00t/x0xr00t?style=flat&color=blue&label=Weekly+Commits)
-
-<!-- ALL-REPOSITORY CODE FREQUENCY -->
-![Total Code Changes](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fcode-frequency.json&style=flat&color=blue)
-
-![Total Lines Added](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fadditions.json&style=flat&color=blue)
-
-![Total Lines Deleted](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fdeletions.json&style=flat&color=blue)
-
-![Code Changes Today](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fdaily-changes.json&style=flat&color=blue)
-
-![Code Changes This Week](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fweekly-changes.json&style=flat&color=blue)
-
-![Code Changes This Month](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fmonthly-changes.json&style=flat&color=blue)
-
-<!-- ALL-REPOSITORY STATISTICS -->
-![Total Git Clones](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Fclones.json&style=flat&color=blue)
-
-![Total Code Commits](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Ftotal-commits.json&style=flat&color=blue)
-
-![Repositories Scanned](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fx0xr00t%2Fx0xr00t%2Fmain%2Fstats%2Frepositories.json&style=flat&color=blue)
+![Profile Visitors]\(https://komarev.com/ghpvc/?username=x0xr00t&color=blue&style=flat&label=Profile+Views)\
+![Repository Views]\(https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)\
+![Yearly Commits]\(https://img.shields.io/github/commit-activity/y/x0xr00t/x0xr00t?style=flat&color=blue&label=Yearly+Commits)\
+![Weekly Commits]\(https://img.shields.io/github/commit-activity/w/x0xr00t/x0xr00t?style=flat&color=blue&label=Weekly+Commits)\
+![Monthly Commits]\(https://img.shields.io/github/commit-activity/m/x0xr00t/x0xr00t?style=flat&color=blue&label=Monthly+Commits)\
+![Followers]\(https://img.shields.io/github/followers/x0xr00t?style=flat&color=blue&label=Followers)\
+![Stars]\(https://img.shields.io/github/stars/x0xr00t?style=flat&color=blue&label=Total+Stars)\
+![Repositories]\(https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_repos&label=Repositories&color=blue&style=flat)\
+![Public Gists]\(https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fx0xr00t&query=%24.public_gists&label=Public+Gists&color=blue&style=flat)\
+![Last Commit]\(https://img.shields.io/github/last-commit/x0xr00t/x0xr00t?style=flat&color=blue&label=Last+Commit)\
+![Open Issues]\(https://img.shields.io/github/issues/x0xr00t/x0xr00t?style=flat&color=blue&label=Open+Issues)\
+![Closed Issues]\(https://img.shields.io/github/issues-closed/x0xr00t/x0xr00t?style=flat&color=blue&label=Closed+Issues)\
+![Open Pull Requests]\(https://img.shields.io/github/issues-pr/x0xr00t/x0xr00t?style=flat&color=blue&label=Open+PRs)\
+![Closed Pull Requests]\(https://img.shields.io/github/issues-pr-closed/x0xr00t/x0xr00t?style=flat&color=blue&label=Closed+PRs)\
+![Watchers]\(https://img.shields.io/github/watchers/x0xr00t/x0xr00t?style=flat&color=blue&label=Watchers)\
+![Contributors]\(https://img.shields.io/github/contributors/x0xr00t/x0xr00t?style=flat&color=blue&label=Contributors)\
+![License]\(https://img.shields.io/github/license/x0xr00t/x0xr00t?style=flat&color=blue&label=License)\
+![Latest Release]\(https://img.shields.io/github/v/release/x0xr00t/x0xr00t?style=flat&color=blue&label=Latest+Release)\
+![Release Date]\(https://img.shields.io/github/release-date/x0xr00t/x0xr00t?style=flat&color=blue&label=Release+Date)\
+![Total Downloads]\(https://img.shields.io/github/downloads/x0xr00t/x0xr00t/total?style=flat&color=blue&label=Total+Downloads)\
+![Primary Language]\(https://img.shields.io/github/languages/top/x0xr00t/x0xr00t?style=flat&color=blue&label=Primary+Language)\
+![Repository Size]\(https://img.shields.io/github/repo-size/x0xr00t/x0xr00t?style=flat&color=blue&label=Repository+Size)\
+![Code Size]\(https://img.shields.io/github/languages/code-size/x0xr00t/x0xr00t?style=flat&color=blue&label=Code+Size)\
+![Forks]\(https://img.shields.io/github/forks/x0xr00t/x0xr00t?style=flat&color=blue&label=Forks)\
+![Open Issues Ratio]\(https://img.shields.io/github/issues-raw/x0xr00t/x0xr00t?style=flat&color=blue&label=Issues)\
+![GitHub Profile]\(https://img.shields.io/badge/GitHub-x0xr00t-blue?style=flat&logo=github)
 
 ---
 
