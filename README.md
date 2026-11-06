@@ -37,7 +37,8 @@
 
 ![](https://komarev.com/ghpvc/?username=x0xr00t&color=green)
 [![Image of Repositories Views Counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/x0xr00t/repositories-views-counter)
-[![Total Lines Of Code](https://vercel.app)](https://github.com/x0xr00t/readme-LineCounter)
+![Total Lines Of code](https://tokei.rs)
+
 
 ---
 
